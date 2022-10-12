@@ -1,11 +1,9 @@
-- 概览
+- [用户指南](zh-cn/developer/READEME.md)
+- [开发者指南](zh-cn/dev_guide.md)
+- [云桌面模块 ](more-pages.md)
+- [云社区模块](custom-navbar.md) 
 
-  - [开发者模块](zh-cn/dev_guide.md "The greatest guide in the world")
-  - [云桌面模块 ](more-pages.md)
-  - [云社区模块](custom-navbar.md)
-  - [装备商城](cover.md)
-  
-- 平台展示
+- 视频教程
 
   * [系列视频](zh-cn/gallery.md "The video gallery in wechat")
 

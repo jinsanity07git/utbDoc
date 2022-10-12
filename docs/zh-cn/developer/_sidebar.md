@@ -1,0 +1,43 @@
+- [开发者指南](zh-cn/developer/README.md)
+  - [模型视图](zh-cn/developer/modelview/intro.md)
+  - [控件](zh-cn/developer/modelview/control.md)
+    - [单选控件](zh-cn/developer/modelview/singlechoice.md)
+    - [复选控件](zh-cn/developer/modelview/multiplechoice.md)
+    - [单选下拉控件](zh-cn/developer/modelview/singledrop.md)
+    - [复选下拉控件](zh-cn/developer/modelview/multipledrop.md)
+    - [图片单选控件](zh-cn/developer/modelview/singlepicchoice.md)
+    - [图片复选控件](zh-cn/developer/modelview/multiplepicchoice.md)
+    - [文本输入控件](zh-cn/developer/modelview/textbox.md)
+    - [整数输入控件](zh-cn/developer/modelview/integer.md)
+    - [小数输入控件](zh-cn/developer/modelview/float.md)
+    - [时间输入控件](zh-cn/developer/modelview/time.md)
+    - [日期输入控件](zh-cn/developer/modelview/date.md)
+    - [时间日期联合输入控件](zh-cn/developer/modelview/datetime.md)
+    - [Email输入控件](zh-cn/developer/modelview/emailbox.md)
+    - [手机号码输入控件](zh-cn/developer/modelview/phone.md)
+    - [内容控件](zh-cn/developer/modelview/contents.md)
+    - [评分控件](zh-cn/developer/modelview/rating.md)
+    - [滑动条控件](zh-cn/developer/modelview/slider.md)
+    - [排序控件](zh-cn/developer/modelview/ranking.md)
+    - [表格控件](zh-cn/developer/modelview/tables.md)
+    - [矩阵控件](zh-cn/developer/modelview/matrices.md)
+    - [文本标签控件](zh-cn/developer/modelview/texttag.md)
+    - [按钮标签控件](zh-cn/developer/modelview/buttontag.md)
+    - [图片标签控件](zh-cn/developer/modelview/pictag.md)
+    - [颜色选择控件](zh-cn/developer/modelview/colorpick.md)
+    - [计时计数控件](zh-cn/developer/modelview/timingcount.md)
+    - [普通计数控件](zh-cn/developer/modelview/normalcount.md)
+    - [时间戳控件](zh-cn/developer/modelview/timestamp.md)
+    - [文件控件](zh-cn/developer/modelview/filebox.md)
+    - [视图嵌套控件](zh-cn/developer/modelview/nest.md)
+
+  - [开发者模块](zh-cn/dev_guide.md "The greatest guide in the world")
+  - [云桌面模块 ](more-pages.md)
+  - [云社区模块](custom-navbar.md) 
+
+- 视频教程
+
+  * [系列视频](zh-cn/gallery.md "The video gallery in wechat")
+
+    
+
