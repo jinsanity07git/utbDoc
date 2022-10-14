@@ -1,66 +1,102 @@
 - [Matrix用户指南](zh-cn/userguide/README.md)
-- 概述
-  - [Matrix简介](zh-cn/userguide/matrixintro.md)
-  - [更新日志](zh-cn/userguide/updatelog.md)
-- Matrix.OS
-  - [概述](zh-cn/userguide/os/README.md)
-  - [组件](zh-cn/userguide/os/components.md)
-    - [类型]
-
-
-
-    - [文件/文件夹](zh-cn/userguide/os/filesystem.md)
-    - 模型视图(Model-View)
-      - [基本概念](zh-cn/userguide/modelview/README.md)
-      - [控件集](zh-cn/userguide/modelview/control.md)
-        - [单选控件](zh-cn/userguide/modelview/singlechoice.md)
-        - [复选控件](zh-cn/userguide/modelview/multiplechoice.md)
-        - [单选下拉控件](zh-cn/userguide/modelview/singledrop.md)
-        - [复选下拉控件](zh-cn/userguide/modelview/multipledrop.md)
-        - [图片单选控件](zh-cn/userguide/modelview/singlepicchoice.md)
-        - [图片复选控件](zh-cn/userguide/modelview/multiplepicchoice.md)
-        - [文本输入控件](zh-cn/userguide/modelview/textbox.md)
-        - [整数输入控件](zh-cn/userguide/modelview/integer.md)
-        - [小数输入控件](zh-cn/userguide/modelview/float.md)
-        - [时间输入控件](zh-cn/userguide/modelview/time.md)
-        - [日期输入控件](zh-cn/userguide/modelview/date.md)
-        - [时间日期联合输入控件](zh-cn/userguide/modelview/datetime.md)
-        - [Email输入控件](zh-cn/userguide/modelview/emailbox.md)
-        - [手机号码输入控件](zh-cn/userguide/modelview/phone.md)
-        - [内容控件](zh-cn/userguide/modelview/contents.md)
-        - [评分控件](zh-cn/userguide/modelview/rating.md)
-        - [滑动条控件](zh-cn/userguide/modelview/slider.md)
-        - [排序控件](zh-cn/userguide/modelview/ranking.md)
-        - [表格控件](zh-cn/userguide/modelview/tables.md)
-        - [矩阵控件](zh-cn/userguide/modelview/matrices.md)
-        - [文本标签控件](zh-cn/userguide/modelview/texttag.md)
-        - [按钮标签控件](zh-cn/userguide/modelview/buttontag.md)
-        - [图片标签控件](zh-cn/userguide/modelview/pictag.md)
-        - [颜色选择控件](zh-cn/userguide/modelview/colorpick.md)
-        - [计时计数控件](zh-cn/userguide/modelview/timingcount.md)
-        - [普通计数控件](zh-cn/userguide/modelview/normalcount.md)
-        - [时间戳控件](zh-cn/userguide/modelview/timestamp.md)
-        - [文件控件](zh-cn/userguide/modelview/filebox.md)
-        - [视图嵌套控件](zh-cn/userguide/modelview/nest.md)
-    - 云应用App
-      - [概述](zh-cn/userguide/code/README.md)
-      - [构建应用](zh-cn/userguide/code/devguide.md)
-    - 代码
-    - 地图
+  - 概述
+    - [Matrix简介](zh-cn/userguide/matrixintro.md)
+    - [更新日志](zh-cn/userguide/updatelog.md)
+  - Matrix.OS
+    - [概述](zh-cn/userguide/os/README.md)
+    - 快速入门
+      - [功能与布局](zh-cn/userguide/os/layout.md)
+      - 操作与管理
+        - [基本操作](zh-cn/userguide/os/filebasic.md)
+        - [分享](zh-cn/userguide/os/filebasic.md)
+        - [链接](zh-cn/userguide/os/filebasic.md)
+      - 理念与玩法
+        - [概述](zh-cn/userguide/os/filebasic.md)
+        - [数据和文件](zh-cn/userguide/os/filebasic.md)
+        - [模型视图](zh-cn/userguide/os/filebasic.md)
+        - [Code](zh-cn/userguide/os/filebasic.md)
+        - [交互地图](zh-cn/userguide/os/filebasic.md)
+        - [用Kepler.gl可视化](zh-cn/userguide/os/filebasic.md)
+        - [数据收集](zh-cn/userguide/os/filebasic.md)
+        - [连接开放平台](zh-cn/userguide/os/filebasic.md)
+        - [复用与组装](zh-cn/userguide/os/filebasic.md)
+        - [Pocket](zh-cn/userguide/os/filebasic.md)
+    - 构建Matrix应用
+      - [概述](zh-cn/userguide/os/filebasic.md)
+      - [开发环境与资源设置](zh-cn/userguide/os/filebasic.md)
+      - 前端交互
+        - [概述](zh-cn/userguide/os/filebasic.md)
+        - 模型视图设计
+          - [概念](zh-cn/userguide/modelview/README.md)
+          - 视图管理
+            - [视图草稿箱](zh-cn/userguide/modelview/control.md)
+            - [视图编辑操作](zh-cn/userguide/modelview/control.md)
+            - [云导入视图](zh-cn/userguide/modelview/control.md)
+            - [添加到发布](zh-cn/userguide/modelview/control.md)
+            - [预览视图](zh-cn/userguide/modelview/control.md)
+            - [查看数据节点树](zh-cn/userguide/modelview/control.md)
+          - 控件
+            - [概述](zh-cn/userguide/modelview/control.md)
+            - 控件类型
+              - [单选控件](zh-cn/userguide/modelview/singlechoice.md)
+              - [复选控件](zh-cn/userguide/modelview/multiplechoice.md)
+              - [单选下拉控件](zh-cn/userguide/modelview/singledrop.md)
+              - [复选下拉控件](zh-cn/userguide/modelview/multipledrop.md)
+              - [图片单选控件](zh-cn/userguide/modelview/singlepicchoice.md)
+              - [图片复选控件](zh-cn/userguide/modelview/multiplepicchoice.md)
+              - [文本输入控件](zh-cn/userguide/modelview/textbox.md)
+              - [整数输入控件](zh-cn/userguide/modelview/integer.md)
+              - [小数输入控件](zh-cn/userguide/modelview/float.md)
+              - [时间输入控件](zh-cn/userguide/modelview/time.md)
+              - [日期输入控件](zh-cn/userguide/modelview/date.md)
+              - [时间日期联合输入控件](zh-cn/userguide/modelview/datetime.md)
+              - [Email输入控件](zh-cn/userguide/modelview/emailbox.md)
+              - [手机号码输入控件](zh-cn/userguide/modelview/phone.md)
+              - [内容控件](zh-cn/userguide/modelview/contents.md)
+              - [评分控件](zh-cn/userguide/modelview/rating.md)
+              - [滑动条控件](zh-cn/userguide/modelview/slider.md)
+              - [排序控件](zh-cn/userguide/modelview/ranking.md)
+              - [表格控件](zh-cn/userguide/modelview/tables.md)
+              - [矩阵控件](zh-cn/userguide/modelview/matrices.md)
+              - [文本标签控件](zh-cn/userguide/modelview/texttag.md)
+              - [按钮标签控件](zh-cn/userguide/modelview/buttontag.md)
+              - [图片标签控件](zh-cn/userguide/modelview/pictag.md)
+              - [颜色选择控件](zh-cn/userguide/modelview/colorpick.md)
+              - [计时计数控件](zh-cn/userguide/modelview/timingcount.md)
+              - [普通计数控件](zh-cn/userguide/modelview/normalcount.md)
+              - [时间戳控件](zh-cn/userguide/modelview/timestamp.md)
+              - [文件控件](zh-cn/userguide/modelview/filebox.md)
+              - [视图嵌套控件](zh-cn/userguide/modelview/nest.md)
+              - [自定义拓展](zh-cn/userguide/modelview/customize.md)
+            - [控件关联与排列](zh-cn/userguide/code/README.md)
+        - [视图模型实例](zh-cn/userguide/code/README.md)
+      - 后端控制
+        - [概述](zh-cn/userguide/code/README.md)
+        - [视图端口](zh-cn/userguide/code/devguide.md)
+        - [文件端口](zh-cn/userguide/code/devguide.md)
+      - 开发调试
+        - [设置引导程序文件](zh-cn/userguide/code/devguide.md)
+        - [测试](zh-cn/userguide/code/devguide.md)
+      - 部署
+        - [开放平台](zh-cn/userguide/code/devguide.md)
+        - [基本设置](zh-cn/userguide/code/devguide.md)
+        - [收费与定价](zh-cn/userguide/code/devguide.md)
+        - [可见性管理](zh-cn/userguide/code/devguide.md)
+      - 运营
+        - [发布信息管理](zh-cn/userguide/code/devguide.md)
+        - [重构Refactoring](zh-cn/userguide/code/devguide.md)
+        - [下线](zh-cn/userguide/code/devguide.md)
+        - [取消发布](zh-cn/userguide/code/devguide.md)
+        - [合作者管理](zh-cn/userguide/code/devguide.md)
+        - [用户管理与互动](zh-cn/userguide/code/devguide.md)
+    - 交互地图
       - [概述](zh-cn/userguide/map/README.md)
-    - 项目
-    - 资源
-    - 口袋(pocket)
+    - 协同工具
+      - [协同开发]
+      - 
+  - 开放平台与市场
 
-  
 
-- [开发者指南](zh-cn/dev_guide.md)
-- [云桌面模块 ](more-pages.md)
-- [云社区模块](custom-navbar.md) 
-
-- 视频学习
-
-  * [系列视频](zh-cn/gallery.md "The video gallery in wechat")
 
     
 
