@@ -1,7 +1,6 @@
 - [Matrix用户指南](zh-cn/userguide/README.md)
-  - 概述
-    - [Matrix简介](zh-cn/userguide/matrixintro.md)
-    - [更新日志](zh-cn/userguide/updatelog.md)
+  - [Matrix简介](zh-cn/userguide/matrixintro.md)
+  - [产品更新日志](zh-cn/userguide/updatelog.md)
   - Matrix.OS
     - [概述](zh-cn/userguide/os/README.md)
     - 快速入门
@@ -22,7 +21,7 @@
         - [复用与组装](zh-cn/userguide/os/filebasic.md)
         - [Pocket](zh-cn/userguide/os/filebasic.md)
     - 构建Matrix应用
-      - [概述](zh-cn/userguide/os/filebasic.md)
+      - [什么是Matrix应用？](zh-cn/userguide/os/filebasic.md)
       - [开发环境与资源设置](zh-cn/userguide/os/filebasic.md)
       - 前端交互
         - [概述](zh-cn/userguide/os/filebasic.md)
@@ -30,8 +29,8 @@
           - [概念](zh-cn/userguide/modelview/README.md)
           - 视图管理
             - [视图草稿箱](zh-cn/userguide/modelview/control.md)
-            - [视图编辑操作](zh-cn/userguide/modelview/control.md)
-            - [云导入视图](zh-cn/userguide/modelview/control.md)
+            - [视图编辑](zh-cn/userguide/modelview/control.md)
+            - [云导入](zh-cn/userguide/modelview/control.md)
             - [添加到发布](zh-cn/userguide/modelview/control.md)
             - [预览视图](zh-cn/userguide/modelview/control.md)
             - [查看数据节点树](zh-cn/userguide/modelview/control.md)
@@ -69,32 +68,53 @@
               - [视图嵌套控件](zh-cn/userguide/modelview/nest.md)
               - [自定义拓展](zh-cn/userguide/modelview/customize.md)
             - [控件关联与排列](zh-cn/userguide/code/README.md)
-        - [视图模型实例](zh-cn/userguide/code/README.md)
+        - [视图模型实例化](zh-cn/userguide/code/README.md)
+        - [发布视图模型到开放平台](zh-cn/userguide/modelview/control.md)
       - 后端控制
         - [概述](zh-cn/userguide/code/README.md)
         - [视图端口](zh-cn/userguide/code/devguide.md)
         - [文件端口](zh-cn/userguide/code/devguide.md)
-      - 开发调试
-        - [设置引导程序文件](zh-cn/userguide/code/devguide.md)
-        - [测试](zh-cn/userguide/code/devguide.md)
+        - [运行调试](zh-cn/userguide/code/devguide.md)
       - 部署
-        - [开放平台](zh-cn/userguide/code/devguide.md)
+        - [部署 v.s. 自用](zh-cn/userguide/code/devguide.md)
         - [基本设置](zh-cn/userguide/code/devguide.md)
         - [收费与定价](zh-cn/userguide/code/devguide.md)
         - [可见性管理](zh-cn/userguide/code/devguide.md)
-      - 运营
-        - [发布信息管理](zh-cn/userguide/code/devguide.md)
-        - [重构Refactoring](zh-cn/userguide/code/devguide.md)
+      - 团队协同
+        - [分享与并行操作]
+        - [锁定与权限管理]
+        - [嵌套与复用]
+      - 运营与维护
+        - [信息更新与管理](zh-cn/userguide/code/devguide.md)
+        - [重构](zh-cn/userguide/code/devguide.md)
         - [下线](zh-cn/userguide/code/devguide.md)
         - [取消发布](zh-cn/userguide/code/devguide.md)
         - [合作者管理](zh-cn/userguide/code/devguide.md)
         - [用户管理与互动](zh-cn/userguide/code/devguide.md)
     - 交互地图
-      - [概述](zh-cn/userguide/map/README.md)
-    - 协同工具
-      - [协同开发]
-      - 
+      - [地图的再定义](zh-cn/userguide/map/README.md) 视角，编译器，基座，组装平台。。。
+      - 图层
+        - [图层数据](zh-cn/userguide/map/README.md)
+        - [图层设置与管理](zh-cn/userguide/map/README.md)
+        - [嵌套与组装](zh-cn/userguide/map/README.md)
+      - [发布地图](zh-cn/userguide/map/README.md)
+      - 团队协同
+        - [分享与并行操作](zh-cn/userguide/map/README.md)
+        - [锁定与权限管理](zh-cn/userguide/map/README.md)
+        - [嵌套与复用](zh-cn/userguide/map/README.md)
+      - 运营与维护
+        - [信息更新与管理](zh-cn/userguide/code/devguide.md)
+        - [重构](zh-cn/userguide/code/devguide.md)
+        - [下线](zh-cn/userguide/code/devguide.md)
+        - [取消发布](zh-cn/userguide/code/devguide.md)
+        - [合作者管理](zh-cn/userguide/code/devguide.md)
+        - [用户管理与互动](zh-cn/userguide/code/devguide.md)
+      
+      
+
+    - 
   - 开放平台与市场
+    - []
 
 
 
