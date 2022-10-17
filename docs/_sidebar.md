@@ -20,7 +20,7 @@
         - [连接开放平台](zh-cn/userguide/os/filebasic.md)
         - [复用与组装](zh-cn/userguide/os/filebasic.md)
         - [Pocket](zh-cn/userguide/os/filebasic.md)
-    - 构建Matrix应用
+    - 开发Matrix应用
       - [什么是Matrix应用？](zh-cn/userguide/os/filebasic.md)
       - [开发环境与资源设置](zh-cn/userguide/os/filebasic.md)
       - 前端交互
@@ -91,7 +91,7 @@
         - [取消发布](zh-cn/userguide/code/devguide.md)
         - [合作者管理](zh-cn/userguide/code/devguide.md)
         - [用户管理与互动](zh-cn/userguide/code/devguide.md)
-    - 交互地图
+    - 构建交互地图
       - [地图的再定义](zh-cn/userguide/map/README.md) 视角，编译器，基座，组装平台。。。
       - 图层
         - [图层数据](zh-cn/userguide/map/README.md)
@@ -109,6 +109,7 @@
         - [取消发布](zh-cn/userguide/code/devguide.md)
         - [合作者管理](zh-cn/userguide/code/devguide.md)
         - [用户管理与互动](zh-cn/userguide/code/devguide.md)
+    - 项目和资源
       
       
 
