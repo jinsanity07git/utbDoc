@@ -3,13 +3,12 @@
   - [产品更新日志](zh-cn/userguide/updatelog.md)
 
   - Matrix.OS
-    - [概述](zh-cn/userguide/os/README.md)
+    - [概览](zh-cn/userguide/os/README.md)
     - 快速入门
-      - [功能与布局](zh-cn/userguide/os/layout.md)
-      - 操作与管理
-        - [基本操作](zh-cn/userguide/os/filebasic.md)
-        - [分享与分工](zh-cn/userguide/os/filebasic.md)
-        - [链接](zh-cn/userguide/os/filebasic.md)
+      - 文件操作与管理
+        - [基本文件操作](zh-cn/userguide/os/quickstart/filebasic.md)
+        - [分享与分工](zh-cn/userguide/os/quickstart/share.md)
+        - [链接](zh-cn/userguide/os/quickstart/link.md)
       - 核心理念与玩法
         - [概述](zh-cn/userguide/os/filebasic.md)
         - [数据和文件](zh-cn/userguide/os/filebasic.md)
