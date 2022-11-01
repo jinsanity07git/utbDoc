@@ -6,8 +6,8 @@
     - [概览](zh-cn/userguide/os/README.md)
     - 快速入门
       - 文件操作与管理
-        - [基本文件操作](zh-cn/userguide/os/quickstart/filebasic.md)
-        - [分享与分工](zh-cn/userguide/os/quickstart/share.md)
+        - [创建与上传](zh-cn/userguide/os/quickstart/new.md)
+        - [分享与链接](zh-cn/userguide/os/quickstart/sharelink.md)
         - [链接](zh-cn/userguide/os/quickstart/link.md)
       - 核心理念与玩法
         - [概述](zh-cn/userguide/os/filebasic.md)
