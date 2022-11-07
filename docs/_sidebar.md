@@ -5,22 +5,24 @@
   - Matrix.OS
     - [概览](zh-cn/userguide/os/README.md)
     - 快速入门
-      - 文件操作与管理
-        - [创建与上传](zh-cn/userguide/os/quickstart/new.md)
+      - 项目组件
+        - [概述](zh-cn/userguide/os/quickstart/components.md)
+        - [创建](zh-cn/userguide/os/quickstart/new.md)
         - [分享与链接](zh-cn/userguide/os/quickstart/sharelink.md)
-        - [链接](zh-cn/userguide/os/quickstart/link.md)
-      - 核心理念与玩法
-        - [概述](zh-cn/userguide/os/filebasic.md)
-        - [数据和文件](zh-cn/userguide/os/filebasic.md)
+        - [发布](zh-cn/userguide/os/quickstart/release.md)
+        - [订阅](zh-cn/userguide/os/quickstart/subscribe.md)
+        - [运营与维护](zh-cn/userguide/os/quickstart/maintain.md)
+        - [文件管理操作](zh-cn/userguide/os/quickstart/filesys.md)
+      - 容器与视角
+        - [OS](zh-cn/userguide/os/quickstart/container.md)
         - [模型视图](zh-cn/userguide/os/filebasic.md)
         - [Code](zh-cn/userguide/os/filebasic.md)
         - [交互地图](zh-cn/userguide/os/filebasic.md)
-        - [用Kepler.gl可视化](zh-cn/userguide/os/filebasic.md)
+        - [Kepler.gl](zh-cn/userguide/os/filebasic.md)
         - [数据收集](zh-cn/userguide/os/filebasic.md)
-        - [连接开放平台](zh-cn/userguide/os/filebasic.md)
         - [嵌套、复用与组装](zh-cn/userguide/os/filebasic.md)
         - [Pocket](zh-cn/userguide/os/filebasic.md)
-
+      
     - 模型视图
       - [概述](zh-cn/userguide/modelview/README.md)
       - 控件集
