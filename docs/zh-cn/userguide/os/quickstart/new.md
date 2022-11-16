@@ -12,6 +12,10 @@
 
 ![Matrix.OS](../../../../media/os/quickstart/creatfolder2.png "创建文件夹")
 
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/creatfolder.gif "创建文件夹")
+
 ## 创建模型视图
 
 模型视图是Matrix专门设计的一套用于实现数据标准化、前端UI设计、以及后端代码数据流交互的虚拟载体。
@@ -23,11 +27,16 @@
 
 ![Matrix.OS](../../../../media/os/quickstart/creatmodel2.png "创建模型视图")
 
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/creatmodel.gif "创建模型视图")
+
 ## 上传文件
 
 可以将单个或多个本地文件上传到Matrix，点击左侧导航栏`开始`按钮下的`上传文件`(或右键单击云桌面空白处选择`上传文件`)，如下图所示：
 
 ![Matrix.OS](../../../../media/os/quickstart/uploadfile.png "上传文件")
+![Matrix.OS](../../../../media/os/quickstart/uploadfile.gif "上传文件")
 
 在弹出的对话框中选择需要上传的本地文件即可开始上传，上传文件较大时可能耗时较长。Matrix对上传文件大小做了限制，超大文件可以通过其他更高效方式在Matrix平台访问或被项目组件调用，使用方法参见后续相关教程。
 
@@ -36,6 +45,7 @@
 可以将本地文件夹上传到Matrix，点击左侧导航栏`开始`按钮下的`上传文件夹`(或右键单击云桌面空白处选择`上传文件夹`)，如下图所示：
 
 ![Matrix.OS](../../../../media/os/quickstart/uploadfolder.png "上传文件夹")
+![Matrix.OS](../../../../media/os/quickstart/uploadfolder.gif "上传文件夹")
 
 在弹出的对话框中选择需要上传的本地文件夹即可开始上传，上传文件夹较大时可能耗时较长。Matrix对上传文件大小做了限制，超大文件可以通过其他更高效方式在Matrix平台访问或被项目组件调用，使用方法参见后续相关教程。
 
@@ -59,6 +69,9 @@
 
 ![Matrix.OS](../../../../media/os/quickstart/creatinstance1_3.png "创建模型视图-实例名称")
 
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/creatinstance1.gif "创建模型实例-方法1")
 
 ### 方法2
 
@@ -69,6 +82,10 @@
 2) 在对话框中输入模型实例的名称，点击`创建`按钮，如下图所示：
 
 ![Matrix.OS](../../../../media/os/quickstart/creatinstance2_2.png "创建模型视图-实例名称")
+
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/creatinstance2.gif "创建模型实例-方法2")
 
 通过方法1或方法2成功创建模型实例后，会显示在云桌面当前位置。如下图所示：
 
@@ -86,7 +103,11 @@ Pocket可以通过链接方式将资源引用到Matrix.OS，并在各种类型�
 ![Matrix.OS](../../../../media/os/quickstart/creatpocket2.png "创建口袋-信息输入")
 ![Matrix.OS](../../../../media/os/quickstart/creatpocket3.png "创建口袋-完成")
 
-上图显示了创建一个Pocket，将百度云盘数据作为外部资源引入到Matrix.OS的例子。通过Pocket也可以将视频、网页等多媒体资源嵌入到Matrix项目组件中。
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/creatpocket.gif "创建口袋")
+
+以上显示了创建一个Pocket，将百度云盘数据作为外部资源引入到Matrix.OS的例子。通过Pocket也可以将视频、网页等多媒体资源嵌入到Matrix项目组件中。
 
 当然，Pocket也可用来链接Matrix.OS内生资源，输入口袋名称后，点击`云OS导入`按钮，如下图所示：
 
@@ -95,4 +116,8 @@ Pocket可以通过链接方式将资源引用到Matrix.OS，并在各种类型�
 在对话框中，选择要链接的OS资源，点击`确定`即可，如下图所示：
 
 ![Matrix.OS](../../../../media/os/quickstart/creatpocketfromOS2.png "创建口袋-链接OS资源")
+
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/creatpocketfromOS.gif "创建口袋-链接OS资源")
 

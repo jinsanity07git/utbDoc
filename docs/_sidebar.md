@@ -3,9 +3,9 @@
   - [产品更新日志](zh-cn/userguide/updatelog.md)
 
   - Matrix.OS
-    - [概览](zh-cn/userguide/os/README.md)
     - 快速入门
-      - 项目组件
+      - [概览](zh-cn/userguide/os/README.md)
+      - Matrix项目组件
         - [概述](zh-cn/userguide/os/quickstart/components.md)
         - [创建](zh-cn/userguide/os/quickstart/new.md)
         - [分享与链接](zh-cn/userguide/os/quickstart/sharelink.md)

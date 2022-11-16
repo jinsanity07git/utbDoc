@@ -11,9 +11,14 @@
 
 ![Matrix.OS](../../../../media/os/quickstart/share3.png "添加分享用户")
 
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/share.gif "分享项目组件")
+
 点击左侧导航栏中的`被分享`按钮，即可查看您参与和被分享的全部项目组件,并根据您被赋予的权限与其他工作伙伴协同工作，如下图所示：
 
 ![Matrix.OS](../../../../media/os/quickstart/shared.png "被分享")
+![Matrix.OS](../../../../media/os/quickstart/shared.gif "被分享")
 
 ## 链接管理
 
@@ -21,6 +26,10 @@
 
 ![Matrix.OS](../../../../media/os/quickstart/link1.png "链接分享")
 ![Matrix.OS](../../../../media/os/quickstart/link2.png "链接管理")
+
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/link.gif "链接管理")
 
 ### 普通链接分享
 

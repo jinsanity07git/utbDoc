@@ -11,19 +11,17 @@
 
 ### 多选模式
 
-在Matrix.OS右上方，点击"多选"复选框，即开启多选模式，可选中多个项目组件，如下图所示：
+在Matrix.OS右上方，点击选中"多选"复选框，即开启多选模式，可选中多个项目组件。取消选中"多选"复选框，则自动退出多选模式。如下图所示：
 
-![Matrix.OS](../../../../media/os/quickstart/multiselect.png "多选模式")
-
-取消选中"多选"复选框，则自动退出多选模式。
+![Matrix.OS](../../../../media/os/quickstart/multiselect.png "多选操作")
+![Matrix.OS](../../../../media/os/quickstart/multiselect.gif "多选操作")
 
 ### 全选模式
 
-在Matrix.OS右上方，点击"全选"复选框，即选中云桌面当前路径下的全部项目组件，如下图所示：
+在Matrix.OS右上方，点击选中"全选"复选框，即选中云桌面当前路径下的全部项目组件。取消选中"全选"复选框，则自动退出全选模式。如下图所示：
 
-![Matrix.OS](../../../../media/os/quickstart/selectall.png "全选模式")
-
-取消选中"全选"复选框，则自动退出全选模式。
+![Matrix.OS](../../../../media/os/quickstart/selectall.png "全选操作")
+![Matrix.OS](../../../../media/os/quickstart/selectall.gif "全选操作")
 
 ## 移动
 
@@ -36,14 +34,24 @@
 ![Matrix.OS](../../../../media/os/quickstart/singlemove.png "移动单个组件")
 ![Matrix.OS](../../../../media/os/quickstart/movedes.png "设置移动路径")
 
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/singlemove.gif "移动单个组件")
+
 注意：当项目组件内容较多或体量较大时，移动操作可能需要耗费一段时间，请耐心等待。
 
 ### 移动多个组件
 
 首先进入"多选"或"全选"模式，选定多个项目组件后，点击右侧的`移动`按钮，在弹出的文件移动操作对话框中选择目标路径后，点击`确定`，即完成多个项目组件的移动，如下图所示：
 
-![Matrix.OS](../../../../media/os/quickstart/multimove.png "多选模式")
+![Matrix.OS](../../../../media/os/quickstart/multimove.png "移动多个组件")
 ![Matrix.OS](../../../../media/os/quickstart/movedes.png "设置移动路径")
+
+动图展示如下：
+
+![Matrix.OS](../../../../media/os/quickstart/multimove.gif "移动多个组件")
+
+注意：当项目组件内容较多或体量较大时，移动操作可能需要耗费一段时间，请耐心等待。
 
 ## 删除与回收站
 
