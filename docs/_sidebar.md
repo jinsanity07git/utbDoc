@@ -1,27 +1,30 @@
 - [Matrix用户指南](zh-cn/userguide/README.md)
   - [Matrix简介](zh-cn/userguide/matrixintro.md)
   - [产品更新日志](zh-cn/userguide/updatelog.md)
-
   - Matrix.OS
-    - 快速入门
-      - [概览](zh-cn/userguide/os/README.md)
-      - Matrix项目组件
-        - [概述](zh-cn/userguide/os/quickstart/components.md)
-        - [创建](zh-cn/userguide/os/quickstart/new.md)
-        - [分享与链接](zh-cn/userguide/os/quickstart/sharelink.md)
-        - [发布](zh-cn/userguide/os/quickstart/release.md)
-        - [订阅](zh-cn/userguide/os/quickstart/subscribe.md)
-        - [运营与维护](zh-cn/userguide/os/quickstart/maintain.md)
-        - [文件管理操作](zh-cn/userguide/os/quickstart/filesys.md)
-      - 容器与视角
-        - [OS](zh-cn/userguide/os/quickstart/container.md)
-        - [模型视图](zh-cn/userguide/os/filebasic.md)
-        - [Code](zh-cn/userguide/os/filebasic.md)
-        - [交互地图](zh-cn/userguide/os/filebasic.md)
-        - [Kepler.gl](zh-cn/userguide/os/filebasic.md)
-        - [数据收集](zh-cn/userguide/os/filebasic.md)
-        - [嵌套、复用与组装](zh-cn/userguide/os/filebasic.md)
-        - [Pocket](zh-cn/userguide/os/filebasic.md)
+    - [概览](zh-cn/userguide/os/README.md)
+    - 组件
+      - [概述](zh-cn/userguide/os/com/components.md)
+      - [创建](zh-cn/userguide/os/com/new.md)
+      - [管理与操作](zh-cn/userguide/os/com/filesys.md)
+      - [分享与链接](zh-cn/userguide/os/com/sharelink.md)
+      - [发布](zh-cn/userguide/os/com/release.md)
+      - [订阅](zh-cn/userguide/os/com/subscribe.md)
+      - [运营与维护](zh-cn/userguide/os/com/maintain.md)
+    - 工具
+      - [概述](zh-cn/userguide/os/tools/container.md)
+      - [文件管理器](zh-cn/userguide/os/tools/filesys.md)
+      - [Web Terminal](zh-cn/userguide/os/tools/container.md)
+      - [Local Terminal](zh-cn/userguide/os/com/container.md)
+      - [模型视图](zh-cn/userguide/os/filebasic.md)
+      - [Matrix.Code](zh-cn/userguide/os/filebasic.md)
+      - [Visual Studio Code](zh-cn/userguide/os/filebasic.md)
+      - [交互地图](zh-cn/userguide/os/filebasic.md)
+      - [Kepler.gl](zh-cn/userguide/os/filebasic.md)
+      - [Git使用](zh-cn/userguide/os/filebasic.md)
+      - [数据收集](zh-cn/userguide/os/filebasic.md)
+      - [嵌套、复用与组装](zh-cn/userguide/os/filebasic.md)
+      - [Pocket](zh-cn/userguide/os/filebasic.md)
       
     - 模型视图
       - [概述](zh-cn/userguide/modelview/README.md)

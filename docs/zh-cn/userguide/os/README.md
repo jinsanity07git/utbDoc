@@ -2,15 +2,15 @@
 
 Matrix.OS是一套沙盘式组件驱动的个人云计算**操作系统平台**，将繁冗的云端开发、部署和配置流程归零化，让每个人像使用个人电脑一样快速上手云计算。
 
-您可以在Matrix.OS开发、管理、分享、发布、订阅云端组件工具、应用程序、可执行代码、微服务、项目、交互式地图和数据资源等；也可和团队更高效地协同工作。
+您可以在Matrix.OS开发、管理、分享、发布、订阅各种类型的**云端项目组件**，如应用程序、可执行代码、微服务、项目、交互式地图和数据资源等；也可和团队更高效地协同工作。
 
-高自由度的沙盒模式支持所有组件可编程、可复用、可嵌入和可共享，让您可以随心所欲的组装和集成项目应用，打造自由聚合的全新专业工作、学习和服务模式。
+高自由度的**沙盒式场景工具**支持所有组件可编程、可复用、可嵌入和可共享，让您可以随心所欲的组装和集成项目应用，打造自由聚合的全新专业工作、学习和服务模式。
 
 ## 总体布局
 
 登录 Matrix.OS 即进入图形化的云端文件管理和浏览器系统，如下图所示：
 
-![Matrix.OS](../../../media/os/quickstart/oslayout.png "Matrix.OS")
+![Matrix.OS](../../../media/os/com/oslayout.png "Matrix.OS")
 
 所有云端组件和工具例如程序、代码、微服务、交互地图、项目、资源、数据模型等**都统一以文件或文件夹为载体**在OS上存储、管理、和使用。您可以像在个人电脑上一样，在云OS定制适合您的工作模式和工作空间。
 
@@ -20,8 +20,8 @@ Matrix开发者也可使用Matrix.Code中的命令行界面来实现与云桌面
 
 单击 Matrix.OS 桌面导航栏左上角的`开始`按钮，如下图所示：
 
-![Matrix.OS](../../../media/os/quickstart/startmenu.png "开始按钮")
-![Matrix.OS](../../../media/os/quickstart/startmenu.gif "开始按钮")
+![Matrix.OS](../../../media/os/com/startmenu.png "开始按钮")
+![Matrix.OS](../../../media/os/com/startmenu.gif "开始按钮")
 
 您可以：
 
@@ -43,8 +43,8 @@ Matrix开发者也可使用Matrix.Code中的命令行界面来实现与云桌面
 
 右键点击云桌面**空白处**，即弹出如下图所示菜单选项：
 
-![Matrix.OS](../../../media/os/quickstart/rightclick.png "右键菜单")
-![Matrix.OS](../../../media/os/quickstart/rightclick.gif "右键菜单")
+![Matrix.OS](../../../media/os/com/rightclick.png "右键菜单")
+![Matrix.OS](../../../media/os/com/rightclick.gif "右键菜单")
 
 与点击`开始`按钮相同，您可以通过右键菜单来：
 
@@ -57,8 +57,8 @@ Matrix开发者也可使用Matrix.Code中的命令行界面来实现与云桌面
 
 右键点击任一云组件，即弹出如下图所示菜单选项：
 
-![Matrix.OS](../../../media/os/quickstart/rightclick2.png "右键菜单")
-![Matrix.OS](../../../media/os/quickstart/rightclick2.gif "右键菜单")
+![Matrix.OS](../../../media/os/com/rightclick2.png "右键菜单")
+![Matrix.OS](../../../media/os/com/rightclick2.gif "右键菜单")
 
 * **打开**：打开所选内容
 * **在Code中打开**：在云端集成开发环境Code中打开所选内容
