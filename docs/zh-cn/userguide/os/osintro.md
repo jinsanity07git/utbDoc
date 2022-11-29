@@ -1,27 +1,23 @@
 # Matrix.OS概览
 
-Matrix.OS是一套沙盘式组件驱动的个人云计算**操作系统平台**，将繁冗的云端开发、部署和配置流程归零化，让每个人像使用个人电脑一样快速上手云计算。
+Matrix.OS是**组件与工具有机结合共同驱动的个人云计算操作系统平台**，将繁冗的云端开发、部署和配置流程归零化，让每个人像使用个人电脑一样快速上手云计算。
 
-您可以在Matrix.OS开发、管理、分享、发布、订阅各种类型的**云端项目组件**，如应用程序、可执行代码、微服务、项目、交互式地图和数据资源等；也可和团队更高效地协同工作。
-
-高自由度的**沙盒式场景工具**支持所有组件可编程、可复用、可嵌入和可共享，让您可以随心所欲的组装和集成项目应用，打造自由聚合的全新专业工作、学习和服务模式。
+您可以在Matrix.OS开发、管理、分享、发布、订阅、组合、应用各种类型的**定制化云端组件**，如应用程序、可执行代码、微服务、项目、交互式地图、数据资源和产品等；高自由度的**沙盒式场景工具**支持所有组件可编程、可复用、可嵌入和可共享，让您可以随心所欲的组装和集成项目应用，与团队伙伴更高效地协同工作，打造自由聚合的全新专业工作、学习和服务模式。
 
 ## 总体布局
 
-登录 Matrix.OS 即进入图形化的云端文件管理和浏览器系统，如下图所示：
+登录 Matrix.OS，即进入图形化的云端文件管理和浏览器系统(File Explorer)，如下图所示：
 
-![Matrix.OS](../../../media/os/com/oslayout.png "Matrix.OS")
+![Matrix.OS](../../../media/os/general/oslayout.png "Matrix.OS")
 
-所有云端组件和工具例如程序、代码、微服务、交互地图、项目、资源、数据模型等**都统一以文件或文件夹为载体**在OS上存储、管理、和使用。您可以像在个人电脑上一样，在云OS定制适合您的工作模式和工作空间。
-
-Matrix开发者也可使用Matrix.Code中的命令行界面来实现与云桌面的同步。
+在Matrix.OS，所有云端组件**都统一以文件或文件夹为载体**在OS上存储、管理、和使用。您可以像在个人电脑上一样，在云OS定制适合您的工作空间与工作模式。
 
 ## “开始”按钮
 
 单击 Matrix.OS 桌面导航栏左上角的`开始`按钮，如下图所示：
 
-![Matrix.OS](../../../media/os/com/startmenu.png "开始按钮")
-![Matrix.OS](../../../media/os/com/startmenu.gif "开始按钮")
+![Matrix.OS](../../../media/os/general/startmenu.png "开始按钮")
+![Matrix.OS](../../../media/os/general/startmenu.gif "开始按钮")
 
 您可以：
 
@@ -43,8 +39,8 @@ Matrix开发者也可使用Matrix.Code中的命令行界面来实现与云桌面
 
 右键点击云桌面**空白处**，即弹出如下图所示菜单选项：
 
-![Matrix.OS](../../../media/os/com/rightclick.png "右键菜单")
-![Matrix.OS](../../../media/os/com/rightclick.gif "右键菜单")
+![Matrix.OS](../../../media/os/general/rightclick.png "右键菜单")
+![Matrix.OS](../../../media/os/general/rightclick.gif "右键菜单")
 
 与点击`开始`按钮相同，您可以通过右键菜单来：
 
@@ -57,8 +53,8 @@ Matrix开发者也可使用Matrix.Code中的命令行界面来实现与云桌面
 
 右键点击任一云组件，即弹出如下图所示菜单选项：
 
-![Matrix.OS](../../../media/os/com/rightclick2.png "右键菜单")
-![Matrix.OS](../../../media/os/com/rightclick2.gif "右键菜单")
+![Matrix.OS](../../../media/os/general/rightclick2.png "右键菜单")
+![Matrix.OS](../../../media/os/general/rightclick2.gif "右键菜单")
 
 * **打开**：打开所选内容
 * **在Code中打开**：在云端集成开发环境Code中打开所选内容
@@ -72,3 +68,10 @@ Matrix开发者也可使用Matrix.Code中的命令行界面来实现与云桌面
 * **发布**：将所选内容作为组件发布到开放平台
 * **数据采集**：设计和实施各种数据采集任务
 * **删除**：将所选内容移动到"回收站"
+
+## 使用Terminal
+
+您可以使用网络终端(Web Terminal)或者本地终端(Local Terminal)，用命令行操作来实现全部云OS文件管理功能，并与云桌面的同步；同时可以快捷配置云端组件开发与编译环境、运行云端代码和程序组件等。
+
+![Matrix.OS](../../../media/os/general/webterminal.png "网络终端")
+![Matrix.OS](../../../media/os/general/localterminal.png "本地终端")
