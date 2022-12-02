@@ -65,7 +65,7 @@
 
 ![Matrix.OS](../../../../media/os/com/productsubscribe4.gif "跳转到组件的安装目录")
 
-用户可以订阅安装任意多个组件到个人云OS，以达到协同组装使用的目的(参见后续教程)，如下图所示：
+用户可以订阅安装任意多个组件到个人云OS，以达到协同组装使用的目的(后续教程会详细介绍)，如下图所示：
 
 ![Matrix.OS](../../../../media/os/com/multisubscribe.png "多个组件订阅到云OS")
 

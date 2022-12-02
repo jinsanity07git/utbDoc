@@ -19,19 +19,25 @@
         - [常用CLI命令操作](zh-cn/userguide/os/tools/terminals/command.md)
         - [网络终端](zh-cn/userguide/os/tools/terminals/webt.md)
         - [本地终端](zh-cn/userguide/os/tools/terminals/localt.md)
-        - [Remote - SSH](zh-cn/userguide/os/tools/terminals/remotessh.md)
+        - [Remote - SSH终端](zh-cn/userguide/os/tools/terminals/remotessh.md)
       - 模型视图管理器
-        - [模型视图概述](zh-cn/userguide/os/tools/modelview/modelview.md)
+        - [什么是模型视图](zh-cn/userguide/os/tools/modelview/modelview.md)
+        - [视图管理器简介](zh-cn/userguide/os/tools/modelview/layout.md)
+        - [草稿管理](zh-cn/userguide/os/tools/modelview/draft.md)
+        - [页面编辑](zh-cn/userguide/modelview/control.md)
+        - [预览视图](zh-cn/userguide/modelview/control.md)
+        - [查看数据节点树](zh-cn/userguide/modelview/control.md)
+        - [添加到发布](zh-cn/userguide/modelview/control.md)
         - 控件集
-          - [概述](zh-cn/userguide/modelview/control.md)
+          - [概述](zh-cn/userguide/os/tools/modelview/control.md)
           - 控件类型
-            - [单选控件](zh-cn/userguide/modelview/singlechoice.md)
+            - [单选控件](zh-cn/userguide/os/tools/modelview/singlechoice.md)
             - [复选控件](zh-cn/userguide/modelview/multiplechoice.md)
             - [单选下拉控件](zh-cn/userguide/modelview/singledrop.md)
             - [复选下拉控件](zh-cn/userguide/modelview/multipledrop.md)
             - [图片单选控件](zh-cn/userguide/modelview/singlepicchoice.md)
             - [图片复选控件](zh-cn/userguide/modelview/multiplepicchoice.md)
-            - [文本输入控件](zh-cn/userguide/modelview/textbox.md)
+            - [文本输入控件](zh-cn/userguide/os/tools/modelview/textbox.md)
             - [整数输入控件](zh-cn/userguide/modelview/integer.md)
             - [小数输入控件](zh-cn/userguide/modelview/float.md)
             - [时间输入控件](zh-cn/userguide/modelview/time.md)
@@ -56,13 +62,7 @@
             - [视图嵌套控件](zh-cn/userguide/modelview/nest.md)
             - [自定义拓展](zh-cn/userguide/modelview/customize.md)
           - [控件关联与排列](zh-cn/userguide/code/README.md)
-        - 模型视图管理
-          - [草稿管理](zh-cn/userguide/modelview/control.md)
-          - [视图编辑](zh-cn/userguide/modelview/control.md)
-          - [云导入](zh-cn/userguide/modelview/control.md)
-          - [预览视图](zh-cn/userguide/modelview/control.md)
-          - [查看数据节点树](zh-cn/userguide/modelview/control.md)
-          - [添加到发布](zh-cn/userguide/modelview/control.md)
+        
         - 模型视图协同设计
           - [分享与并行操作](zh-cn/userguide/code/devguide.md)
           - [权限管理](zh-cn/userguide/code/devguide.md)
@@ -96,7 +96,7 @@
       - [Kepler.gl](zh-cn/userguide/os/filebasic.md)
       - [嵌套、复用与组装](zh-cn/userguide/os/filebasic.md)
       - [Pocket](zh-cn/userguide/os/filebasic.md)
-      
+    - 媒体与素材
       
 
     - 开发Matrix应用

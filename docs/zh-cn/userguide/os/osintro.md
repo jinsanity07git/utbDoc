@@ -71,7 +71,4 @@ Matrix.OS是**组件与工具有机结合共同驱动的个人云计算操作系
 
 ## 使用Terminal
 
-您可以使用网络终端(Web Terminal)或者本地终端(Local Terminal)，用命令行操作来实现全部云OS文件管理功能，并与云桌面的同步；同时可以快捷配置云端组件开发与编译环境、运行云端代码和程序组件等。
-
-![Matrix.OS](../../../media/os/general/webterminal.png "网络终端")
-![Matrix.OS](../../../media/os/general/localterminal.png "本地终端")
+您也可以使用网络终端(Web Terminal)或者本地终端(Local Terminal)，用命令行操作来实现全部云OS文件管理功能，并与云桌面的同步；同时可以快捷配置云端组件开发与编译环境、运行云端代码和程序组件等。详细信息参见：《[使用终端](zh-cn/userguide/os/tools/terminals/terminal.md)》

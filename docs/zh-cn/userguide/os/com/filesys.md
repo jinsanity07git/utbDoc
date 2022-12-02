@@ -78,7 +78,7 @@
 
 ## 显示与排序
 
-若要更改组件在Matrix.OS中的显示方式，请点击桌面右上角的显示模式切换按钮，可以在显示图标和列表之间进行选择，如下图所示：
+若要更改组件在Matrix.OS中的显示方式，请点击桌面右上角的显示模式切换按钮 <img src="././././media/logo/icon.png" width="15" height="15"> 或 <img src="././././media/logo/list.png" width="15" height="15">，可以在显示图标和列表之间进行选择，如下图所示：
 
 ![Matrix.OS](../../../../media/os/com/viewmode.gif "显示切换")
 

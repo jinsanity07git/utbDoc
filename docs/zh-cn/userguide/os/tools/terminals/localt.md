@@ -1,7 +1,7 @@
 
 # 本地终端(Local Terminal)
 
-相比使用网络终端，我们更推荐您使用个人计算机上的本地终端工具，来连接Matrix.OS并且更快捷高效完成全部系统管理操作。
+相比使用网络终端，我们更推荐您使用个人计算机上的本地终端工具，来连接 Matrix.OS 并且更快捷高效完成全部系统管理操作。
 
 ## Windows 命令行工具
 
@@ -30,11 +30,11 @@ abc@MacBook-Pro ~ %
 ```
 这表示名为 abc 的用户登录了名为“MacBook-Pro”的电脑，而波浪符号 (~) 表示当前文件夹为其个人文件夹。
 
-在Mac中打开终端工具，可使用LaunchPad，在"Other"文件夹下找到"Terminal"，单击即可打开终端工具，如下图所示：
+在Mac中打开终端工具，可使用 LaunchPad，在"Other"文件夹下找到"Terminal"，单击即可打开终端工具，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/macterminal.png "打开Mac终端工具Terminal")
 
-关于Mac Terminal的详细使用方法，请参考《[Mac终端使用手册](https://support.apple.com/zh-cn/guide/terminal/welcome/2.13/mac)》
+关于 Mac Terminal 的详细使用方法，请参考《[Mac终端使用手册](https://support.apple.com/zh-cn/guide/terminal/welcome/2.13/mac)》
 
 ## 建立ssh连接
 
@@ -44,7 +44,7 @@ abc@MacBook-Pro ~ %
 ssh -p [端口号] root@[Matrix主机名或IP地址]
 ```
 
-回车后，命令行会提示输入您在Matrix的用户密码，输入密码后按回车键，即建立对Matrix.OS的连接。以Windows为例，连接过程如下图所示：
+回车后，命令行会提示输入您在 Matrix 的用户密码，输入密码后按回车键，即建立对 Matrix.OS 的连接。以 Windows 为例，连接过程如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/sshconnect.gif "建立ssh连接")
 
@@ -54,8 +54,8 @@ ssh -p [端口号] root@[Matrix主机名或IP地址]
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/lsroot.gif "列出文件夹")
 
-其中，"uos"文件夹包含着所有Matrix.OS上的组件。可使用`cd`命令进入"uos"。再使用`ls`命令浏览uos下的全部内容，如下图所示：
+其中，"uos"文件夹包含着所有 Matrix.OS 上的组件和文件。可使用`cd`命令进入"uos"。再使用`ls`命令浏览 uos 下的全部内容，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/localcduos.gif "进入uos并展示内容")
 
-用户可以在本地终端使用Linux命令对uos进行各种文件管理操作，常用命令参见《[常用CLI命令操作](zh-cn/userguide/os/tools/terminals/command.md)》。
+用户可以在本地终端使用 Linux 命令对 uos 进行各种文件管理操作，常用命令参见《[常用CLI命令操作](zh-cn/userguide/os/tools/terminals/command.md)》。
