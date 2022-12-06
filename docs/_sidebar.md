@@ -22,12 +22,11 @@
         - [Remote - SSH终端](zh-cn/userguide/os/tools/terminals/remotessh.md)
       - 模型视图管理器
         - [什么是模型视图](zh-cn/userguide/os/tools/modelview/modelview.md)
-        - [视图管理器简介](zh-cn/userguide/os/tools/modelview/layout.md)
-        - [草稿管理](zh-cn/userguide/os/tools/modelview/draft.md)
-        - [页面编辑](zh-cn/userguide/modelview/control.md)
-        - [预览视图](zh-cn/userguide/modelview/control.md)
-        - [查看数据节点树](zh-cn/userguide/modelview/control.md)
-        - [添加到发布](zh-cn/userguide/modelview/control.md)
+        - [视图管理器简介](zh-cn/userguide/os/tools/modelview/studio.md)
+        - [草稿箱](zh-cn/userguide/os/tools/modelview/draftbox.md)
+        - [发布区](zh-cn/userguide/os/tools/modelview/releaseview.md)
+        - [视图页面编辑](zh-cn/userguide/modelview/control.md)
+        
         - 控件集
           - [概述](zh-cn/userguide/os/tools/modelview/control.md)
           - 控件类型

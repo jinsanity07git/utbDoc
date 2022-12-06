@@ -1,5 +1,5 @@
 
-# 网络终端(Web Terminal)
+# 网络终端 (Web Terminal)
 
 ## 开启网络终端
 
