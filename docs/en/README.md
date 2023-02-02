@@ -10,7 +10,7 @@ This submission includes two data explorers developed explicitly for the freshly
 
 ### Usage
 
-To access the tool, we created five individual accounts for all judges to log into the platform. Please choose the specially named email below as your account name to access the domain: [click here⬉🖱️](http://18.188.110.26/matrix)
+To access the tool, we created five individual accounts for all judges to log into the platform. Please choose the specially named email below as your account name to access the domain: [click here⬉🖱️](http://3.145.166.175/matrix)
 
 > Note: Please find your account infomation in the **project descrption field** of the submission form.
 > Or you can you the any of the following three accounts to access the apps
