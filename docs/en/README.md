@@ -10,7 +10,7 @@ This submission includes two data explorers developed explicitly for the freshly
 
 ### Usage
 
-To access the tool, we created five individual accounts for all judges to log into the platform. Please choose the specially named email below as your account name to access the domain: [click here⬉🖱️](http://18.188.110.26/matrix)
+To access the tool, we created five individual accounts for all judges to log into the platform. Please choose the specially named email below as your account name to access the domain: [click here⬉🖱️](http://3.145.166.175/matrix)
 
 > Note: Please find your account infomation in the **project descrption field** of the submission form.
 > Or you can you the any of the following three accounts to access the apps
@@ -26,9 +26,9 @@ Once successfully log into the  platform, you would able to see the two tools wi
 If you lose navigation when play with the tool, it's much easier to come back here and access the apps by clicking the following links:
 
 * ![p2](../media/gallery/app_AcrossState.png "p2 :size=400*100") 
-    [⬉🖱️links to **Across State**](http://18.188.110.26/matrix/item/1532522260233_user_16687234633674/home)
+    [⬉🖱️links to **Across State**](http://3.145.166.175/matrix/item/1532522260233_user_16687234633674/home)
 * ![p3](../media/gallery/app_StackState.png "p3  :size=400*100")
-[⬉🖱️links to **Stack State**](http://18.188.110.26/matrix/item/47cd8e6efu03e8fu4e82fu93fafu475f5a234026/home)
+[⬉🖱️links to **Stack State**](http://3.145.166.175/matrix/item/47cd8e6efu03e8fu4e82fu93fafu475f5a234026/home)
 
 Have Fun with the visualized API presentation! You are welcome to comment in the apps' Review section!
 
