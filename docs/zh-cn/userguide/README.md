@@ -1,6 +1,6 @@
 # 用户指南
 
-上次更新日期： 2022年10月10日
+上次更新日期： 2023年2月7日
 
 >​	 The official documentation of Matrix platform
 
