@@ -1,5 +1,7 @@
 # Email输入控件 (Email Input)
 
+![Matrix.OS](../../../../../media/os/tools/modelview/showemail.gif "Email输入控件")
+
 Email输入控件是一个简单的文本框，仅接受Email格式的输入并具有下列属性：
 
 * ID：控件的唯一标识，由开发者赋予，代表控件在数据节点树中的键值 (支持数值、英文字符，和中文)。
