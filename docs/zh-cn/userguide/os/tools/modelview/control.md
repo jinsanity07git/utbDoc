@@ -35,5 +35,5 @@
 - [视图嵌套控件](zh-cn/userguide/os/tools/modelview/nest.md)
 - [自定义拓展](zh-cn/userguide/os/tools/modelview/customize.md)
 
-后续教程将逐一介绍每一控件类型的使用。Matrix还在不断迭代更新控件类型，并最终允许用户开发自定义控件并应用到模型视图。
+后续教程将逐一介绍每一控件类型的使用。Matrix 还在不断迭代更新控件类型，并最终允许用户开发自定义控件并应用到模型视图。
 
