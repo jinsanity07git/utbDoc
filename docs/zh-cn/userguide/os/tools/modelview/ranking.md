@@ -35,7 +35,7 @@
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/editranking1.gif "编辑排序控件 - 打开控件设置对话框")
 
-首先，可以对"控件ID"和"控件文本"进行编辑，如下图示例：
+首先，可以对"控件ID"和"控件文本"进行编辑，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/editranking2.gif "编辑排序控件 - 控件ID与文本编辑")
 
