@@ -24,13 +24,13 @@
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/addmatrix.png "矩阵控件默认设置")
 
-## 基本属性
+## 基本属性设置
 
 点击控件右侧`编辑`按钮，即可打开`控件设置`对话框，对矩阵控件的基本属性进行设置，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/editmatrix1.gif "编辑矩阵控件 - 打开控件设置对话框")
 
-首先，可以对"控件ID"和"控件文本"进行编辑，如下图示例：
+需要对"控件ID"和"控件文本"进行编辑，如下图示例：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/editmatrix2.gif "编辑矩阵控件 - 控件ID与文本编辑")
 

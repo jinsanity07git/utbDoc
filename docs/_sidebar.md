@@ -60,8 +60,8 @@
               - [文件控件](zh-cn/userguide/os/tools/modelview/filebox.md)
               - [视图嵌套控件](zh-cn/userguide/os/tools/modelview/nest.md)
               - [自定义拓展](zh-cn/userguide/os/tools/modelview/customize.md)
-            - [使用关联逻辑](zh-cn/userguide/os/tools/code/README.md)
-          - 协同工作
+            - [控件关联](zh-cn/userguide/os/tools/modelview/controllink.md)
+          - 协同设计
             - [分享与并行操作](zh-cn/userguide/code/devguide.md)
             - [权限管理](zh-cn/userguide/code/devguide.md)
             - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
