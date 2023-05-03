@@ -14,17 +14,18 @@
     - 工具
       - [概述](zh-cn/userguide/os/tools/tools.md)
       - [文件管理器](zh-cn/userguide/os/tools/fileexplorer.md)
-      - 使用终端
+      - 终端
         - [概述](zh-cn/userguide/os/tools/terminals/terminal.md)
         - [常用CLI命令操作](zh-cn/userguide/os/tools/terminals/command.md)
         - [网络终端](zh-cn/userguide/os/tools/terminals/webt.md)
         - [本地终端](zh-cn/userguide/os/tools/terminals/localt.md)
         - [Remote - SSH](zh-cn/userguide/os/tools/terminals/remotessh.md)
       - 模型视图管理器
-        - [什么是模型视图](zh-cn/userguide/os/tools/modelview/modelview.md)
-        - [视图管理器简介](zh-cn/userguide/os/tools/modelview/studio.md)
-        - [草稿箱](zh-cn/userguide/os/tools/modelview/draftbox.md)
-        - [发布区](zh-cn/userguide/os/tools/modelview/releaseview.md)
+        - [模型视图简介](zh-cn/userguide/os/tools/modelview/modelview.md)
+        - 管理器
+          - [概览](zh-cn/userguide/os/tools/modelview/studio.md)
+          - [草稿箱](zh-cn/userguide/os/tools/modelview/draftbox.md)
+          - [发布区](zh-cn/userguide/os/tools/modelview/releaseview.md)
         - 视图设计
           - 控件
             - [概述](zh-cn/userguide/os/tools/modelview/control.md)
@@ -61,10 +62,8 @@
               - [视图嵌套控件](zh-cn/userguide/os/tools/modelview/nest.md)
               - [自定义拓展](zh-cn/userguide/os/tools/modelview/customize.md)
             - [控件关联](zh-cn/userguide/os/tools/modelview/controllink.md)
-          - 协同设计
-            - [分享与并行操作](zh-cn/userguide/code/devguide.md)
-            - [权限管理](zh-cn/userguide/code/devguide.md)
-            - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
+          - [协同设计](zh-cn/userguide/os/tools/modelview/collaborate.md)
+
         - 视图应用
           - [复用为应用前端UI](zh-cn/userguide/code/README.md)
           - [实例化为数据原型](zh-cn/userguide/code/README.md)
@@ -72,56 +71,45 @@
           - [众包信息采集](zh-cn/userguide/code/README.md)
           - [一键生成外业调查App](zh-cn/userguide/code/README.md)
           - [其它定制开发](zh-cn/userguide/code/README.md)
-        - 组件化与发布到开放平台
-            - [概述](zh-cn/userguide/code/devguide.md)
-            - [基本设置](zh-cn/userguide/code/devguide.md)
-            - [收费与定价](zh-cn/userguide/code/devguide.md)
-            - 运营与维护
-              - [信息更新与管理](zh-cn/userguide/code/devguide.md)
-              - [重构](zh-cn/userguide/code/devguide.md)
-              - [下线](zh-cn/userguide/code/devguide.md)
-              - [取消发布](zh-cn/userguide/code/devguide.md)
-              - [合作者管理](zh-cn/userguide/code/devguide.md)
-              - [用户管理与互动](zh-cn/userguide/code/devguide.md)
-        - [建立个人模型视图组件库](zh-cn/userguide/code/devguide.md)
-      - [集成开发环境](zh-cn/userguide/os/filebasic.md)
+
+      - Matrix Code
+        - [Matrix Code概览](zh-cn/userguide/os/tools/code/intro.md)
+        - [开发环境配置](zh-cn/userguide/os/filebasic.md)
+        - 前后端交互
+          - [概述](zh-cn/userguide/code/README.md)
+          - [视图端口](zh-cn/userguide/code/devguide.md)
+          - [数据与文件端口](zh-cn/userguide/code/devguide.md)
+          - [运行调试](zh-cn/userguide/code/devguide.md)
+        - 部署应用
+          - [App v.s. Code](zh-cn/userguide/code/devguide.md)
+          - [基本设置](zh-cn/userguide/code/devguide.md)
+          - [收费与定价](zh-cn/userguide/code/devguide.md)
+          - [可见性与用户权限管理](zh-cn/userguide/code/devguide.md)
+        - 协同
+          - [分享与并行操作](zh-cn/userguide/code/devguide.md)
+          - [权限管理](zh-cn/userguide/code/devguide.md)
+          - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
+        - 运营与维护
+          - [信息更新与管理](zh-cn/userguide/code/devguide.md)
+          - [重构](zh-cn/userguide/code/devguide.md)
+          - [下线](zh-cn/userguide/code/devguide.md)
+          - [取消发布](zh-cn/userguide/code/devguide.md)
+          - [合作者管理](zh-cn/userguide/code/devguide.md)
+          - [用户管理与互动](zh-cn/userguide/code/devguide.md)
+        - [使用VS Code](zh-cn/userguide/os/filebasic.md)
+
       - [交互地图](zh-cn/userguide/os/filebasic.md)
       - [交互图纸](zh-cn/userguide/os/filebasic.md)
       - [数据管理器](zh-cn/userguide/os/filebasic.md)
       
-      - [本地终端(Local Terminal)](zh-cn/userguide/os/com/container.md)
-      - [Visual Studio Code](zh-cn/userguide/os/filebasic.md)
+      
       - [Kepler.gl](zh-cn/userguide/os/filebasic.md)
       - [嵌套、复用与组装](zh-cn/userguide/os/filebasic.md)
       - [Pocket](zh-cn/userguide/os/filebasic.md)
     - 媒体与素材
       
 
-    - 开发Matrix应用
-      - [什么是Matrix应用？](zh-cn/userguide/os/filebasic.md)
-      - [Matrix.Code简介](zh-cn/userguide/os/filebasic.md)
-      - [开发环境与资源设置](zh-cn/userguide/os/filebasic.md)
-      - 前后端交互
-        - [概述](zh-cn/userguide/code/README.md)
-        - [视图端口](zh-cn/userguide/code/devguide.md)
-        - [数据与文件端口](zh-cn/userguide/code/devguide.md)
-        - [运行调试](zh-cn/userguide/code/devguide.md)
-      - 部署应用
-        - [App v.s. Code](zh-cn/userguide/code/devguide.md)
-        - [基本设置](zh-cn/userguide/code/devguide.md)
-        - [收费与定价](zh-cn/userguide/code/devguide.md)
-        - [可见性与用户权限管理](zh-cn/userguide/code/devguide.md)
-      - 协同
-        - [分享与并行操作](zh-cn/userguide/code/devguide.md)
-        - [权限管理](zh-cn/userguide/code/devguide.md)
-        - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
-      - 运营与维护
-        - [信息更新与管理](zh-cn/userguide/code/devguide.md)
-        - [重构](zh-cn/userguide/code/devguide.md)
-        - [下线](zh-cn/userguide/code/devguide.md)
-        - [取消发布](zh-cn/userguide/code/devguide.md)
-        - [合作者管理](zh-cn/userguide/code/devguide.md)
-        - [用户管理与互动](zh-cn/userguide/code/devguide.md)
+      
 
     - 构建交互地图
       - [地图的再定义](zh-cn/userguide/map/README.md) 视角，编译器，基座，组装平台。。。
