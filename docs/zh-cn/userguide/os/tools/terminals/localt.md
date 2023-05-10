@@ -28,9 +28,9 @@ Mac Terminal 为 macOS 提供了命令行界面。Terminal 中的每个窗口都
 ```
 abc@MacBook-Pro ~ %
 ```
-这表示名为 abc 的用户登录了名为“MacBook-Pro”的电脑，而波浪符号 (~) 表示当前文件夹为其个人文件夹。
+这表示名为 abc 的用户登录了名为 "MacBook-Pro" 的电脑，而波浪符号 (~) 表示当前文件夹为其个人文件夹。
 
-在Mac中打开终端工具，可使用 LaunchPad，在"Other"文件夹下找到"Terminal"，单击即可打开终端工具，如下图所示：
+在Mac中打开终端工具，可使用 LaunchPad，在 "Other" 文件夹下找到 "Terminal"，单击即可打开终端工具，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/macterminal.png "打开Mac终端工具Terminal")
 
@@ -50,11 +50,11 @@ ssh -p [端口号] root@[Matrix主机名或IP地址]
 
 ## 访问云桌面
 
-连接虚拟环境成功后，输入`cd ..`命令，进入上一级目录，然后`ls`列出内容如下：
+连接虚拟环境成功后，输入 `cd ..` 命令，进入上一级目录，然后 `ls` 列出内容如下：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/lsroot.gif "列出文件夹")
 
-其中，"uos"文件夹包含着所有 Matrix.OS 上的组件和文件。可使用`cd`命令进入"uos"。再使用`ls`命令浏览 uos 下的全部内容，如下图所示：
+其中，"uos" 文件夹包含着所有 Matrix.OS 上的组件和文件。可使用 `cd` 命令进入 "uos"。再使用 `ls` 命令浏览 uos 下的全部内容，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/localcduos.gif "进入uos并展示内容")
 

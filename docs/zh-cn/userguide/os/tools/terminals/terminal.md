@@ -1,6 +1,6 @@
 # 终端 (Terminal)
 
-Matrix.OS 是基于 Linux 构建的虚拟服务器环境，初学者可以使用图形化的[文件管理器页面(File Explorer)](zh-cn/userguide/os/tools/fileexplorer.md)来访问和管理系统组件和服务。
+Matrix.OS 是基于 Linux 构建的虚拟服务器环境，初学者可以使用图形化的 [文件管理器(File Explorer)](zh-cn/userguide/os/tools/fileexplorer.md) 来访问和管理系统组件和服务。
 
 相对于文件管理器，我们更建议您使用命令行界面 (CLI) 来实现更多控制和更快操作。通过在 CLI 中输入命令，可以在几秒钟内完成需要在图形化页面上执行多个步骤的任务。
 

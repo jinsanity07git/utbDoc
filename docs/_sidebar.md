@@ -73,30 +73,15 @@
           - [其它定制开发](zh-cn/userguide/code/README.md)
 
       - Matrix Code
-        - [Matrix Code概览](zh-cn/userguide/os/tools/code/intro.md)
-        - [开发环境配置](zh-cn/userguide/os/filebasic.md)
-        - 前后端交互
+        - [概览与常用操作](zh-cn/userguide/os/tools/code/intro.md)
+        - [配置开发环境](zh-cn/userguide/os/tools/code/envconfig.md)
+        - [开发云应用App](zh-cn/userguide/os/tools/code/devapp.md)
           - [概述](zh-cn/userguide/code/README.md)
           - [视图端口](zh-cn/userguide/code/devguide.md)
           - [数据与文件端口](zh-cn/userguide/code/devguide.md)
           - [运行调试](zh-cn/userguide/code/devguide.md)
-        - 部署应用
-          - [App v.s. Code](zh-cn/userguide/code/devguide.md)
-          - [基本设置](zh-cn/userguide/code/devguide.md)
-          - [收费与定价](zh-cn/userguide/code/devguide.md)
-          - [可见性与用户权限管理](zh-cn/userguide/code/devguide.md)
-        - 协同
-          - [分享与并行操作](zh-cn/userguide/code/devguide.md)
-          - [权限管理](zh-cn/userguide/code/devguide.md)
-          - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
-        - 运营与维护
-          - [信息更新与管理](zh-cn/userguide/code/devguide.md)
-          - [重构](zh-cn/userguide/code/devguide.md)
-          - [下线](zh-cn/userguide/code/devguide.md)
-          - [取消发布](zh-cn/userguide/code/devguide.md)
-          - [合作者管理](zh-cn/userguide/code/devguide.md)
-          - [用户管理与互动](zh-cn/userguide/code/devguide.md)
-        - [使用VS Code](zh-cn/userguide/os/filebasic.md)
+        - [协同开发](zh-cn/userguide/code/devguide.md)
+        - [与VS Code结合](zh-cn/userguide/os/filebasic.md)
 
       - [交互地图](zh-cn/userguide/os/filebasic.md)
       - [交互图纸](zh-cn/userguide/os/filebasic.md)
@@ -167,7 +152,7 @@
     - [社区](zh-cn/userguide/code/devguide.md)
     - [动态](zh-cn/userguide/code/devguide.md)
     - [个人中心](zh-cn/userguide/code/devguide.md)
-
+  - Gallery
 
 
     

@@ -1,7 +1,7 @@
 
 # 使用 Remote - SSH
 
-很多代码编辑器或集成开发环境 IDE 都支持使用 SSH 连接远程主机进行文件管理、代码编写、开发、调试与部署。本文以微软的Visual Studio Code (VSCode) 为例，详细介绍使用 Remote - SSH 连接 Matrix.OS 云桌面，并使用 VSCode 终端来实现对 Matrix.OS 的远程管理。
+很多代码编辑器或集成开发环境 IDE 都支持使用 SSH 连接远程主机进行文件管理、代码编写、开发、调试与部署。本文以微软的 Visual Studio Code (VSCode) 为例，详细介绍使用 Remote - SSH 连接 Matrix.OS 云桌面，并使用 VSCode 终端来实现对 Matrix.OS 的远程管理。
 
 关于使用 VSCode 在 Matrix.OS 实现远程代码编写、调试、部署上线的方法会在后续教程中介绍，在此就不赘述了。
 
@@ -34,7 +34,7 @@ Remote - SSH 是微软发布的 VSCode Remote 功能插件的之一，如下图�
 
 ### 配置SSH连接文件
 
-Remote - SSH 安装完成后，可以点击左下角状态栏 <img src="./././././media/logo/remotessh.png" width="25" height="15"> 图标，开启远程连接窗口，选择第一项`Connect to Host...`，再进一步选择`Configure SSH Hosts...`，即打开 SSH 连接配置文件，如下图所示：
+Remote - SSH 安装完成后，可以点击左下角状态栏 <img src="./././././media/logo/remotessh.png" width="25" height="15"> 图标，开启远程连接窗口，选择第一项 `Connect to Host...`，再进一步选择 `Configure SSH Hosts...`，即打开 SSH 连接配置文件，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/configssh.gif "配置SSH连接")
 
@@ -50,7 +50,7 @@ Host Matrix.OS
 
 ### 连接到 Matrix.OS
 
-完成配置后，保存该配置文件。再次点击左下角状态栏 <img src="./././././media/logo/remotessh.png" width="25" height="15"> 图标，开启远程连接窗口，选择`Connect to Host...`，此时可以发现刚刚配置好的"Matrix.OS"已经被成功添加到下拉菜单中，点击选中它，即打开 VSCode Remote 视窗，如下图所示：
+完成配置后，保存该配置文件。再次点击左下角状态栏 <img src="./././././media/logo/remotessh.png" width="25" height="15"> 图标，开启远程连接窗口，选择 `Connect to Host...`，此时可以发现刚刚配置好的 "Matrix.OS" 已经被成功添加到下拉菜单中，点击选中它，即打开 VSCode Remote 视窗，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/connectmatrix.gif "开启 VSCode Remote")
 
@@ -64,7 +64,7 @@ Host Matrix.OS
 
 ## 使用终端
 
-成功连接后，您可以在 VSCode Remote 打开终端，使用 Linux 命令来管理 Matrix.OS 上的程序组件和文件。在`Terminal`菜单选择`New Terminal`，即可新建打开终端窗口。如下图所示：
+成功连接后，您可以在 VSCode Remote 打开终端，使用 Linux 命令来管理 Matrix.OS 上的程序组件和文件。在 `Terminal` 菜单选择 `New Terminal`，即可新建打开终端窗口。如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/terminal/vscodeterminal.gif "使用 VSCode Remote 终端")
 

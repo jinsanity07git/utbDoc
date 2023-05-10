@@ -12,7 +12,7 @@ Linux 命令是在 CLI 上运行的程序或实用程序，也就是一个通过
 CommandName [option(s)] [parameter(s)]
 ```
 
-一个命令可以包含选项或参数。也可以在没有参数和选项的情况下运行。以下是Linux命令的三个最常见的组成部分：
+一个命令可以包含选项或参数。也可以在没有参数和选项的情况下运行。以下是 Linux 命令的三个最常见的组成部分：
 
 * `CommandName` ：要执行的命令规则。
 * `option(s)`或`flag`：用于标识修改命令操作。要调用它，请使用连字符 ( - ) 或双连字符 ( -- )。
@@ -22,7 +22,7 @@ CommandName [option(s)] [parameter(s)]
 
 ## CLI 使用技巧
 
-以下是一些常用的CLI提示和技巧：
+以下是一些常用的 CLI 提示和技巧：
 
 * 输入`clear`命令以清理终端屏幕。
 * 输入带参数的命令后，按`Tab`键自动填充。
@@ -36,11 +36,11 @@ CommandName [option(s)] [parameter(s)]
 
 ## 常用命令
 
-您可以在互联网上搜索查看更多Linux命令使用示例和功能信息，在这里我们仅列出部分常用命令的使用方法、功能选项及参数设置。
+您可以在互联网上搜索查看更多 Linux 命令使用示例和功能信息，在这里我们仅列出部分常用命令的使用方法、功能选项及参数设置。
 
 ### apt-get 命令
 
-apt-get用于安装、管理、更新、和删除软件及其依赖项。
+apt-get 用于安装、管理、更新、和删除软件及其依赖项。
 
 **运行 apt-get 命令需要您使用 sudo 或 root 权限。**
 
@@ -50,7 +50,7 @@ apt-get用于安装、管理、更新、和删除软件及其依赖项。
 apt-get [options] (command)
 ```
 
-以下是在使用apt-get时最常用的命令：
+以下是在使用 apt-get 时最常用的命令：
 
 * `update`：同步更新安装包文件。
 * `upgrade`：升级所有已安装软件包到最新版本。
@@ -58,11 +58,11 @@ apt-get [options] (command)
 
 ### sudo 命令
 
-sudo是superuser do的缩写，是最流行的基本 Linux 命令之一，可让您执行拥有管理员或 root 权限的任务。
+sudo 是 superuser do 的缩写，是最流行的基本 Linux 命令之一，可让您执行拥有管理员或 root 权限的任务。
 
 使用 sudo 时，系统会提示用户使用密码进行身份验证。如果您尝试在命令行中运行 sudo 而未对自己进行身份验证，系统会将此记录为安全事件。
 
-如果还未安装sudo命令，则会提示"sudo: command not found"的错误信息，可以输入以下命令安装sudo：
+如果还未安装 sudo 命令，则会提示 "sudo: command not found" 的错误信息，可以输入以下命令安装 sudo：
 
 ```
 apt-get install sudo
@@ -84,7 +84,7 @@ sudo (command)
 
 使用 pwd 命令查找当前工作目录的路径。只需输入 pwd 即可返回完整的当前路径，即以正斜杠 ( / ) 开头的所有目录的路径。例如，/home/用户名。
 
-pwd命令使用以下语法：
+pwd 命令使用以下语法：
 
 ```
 pwd [option]
@@ -97,25 +97,25 @@ pwd [option]
 
 ### cd 命令
 
-要浏览OS文件和目录，请使用 cd 命令。根据您所在的当前工作目录，cd命令需要完整路径或目录名称。
+要浏览 OS 文件和目录，请使用 cd 命令。根据您所在的当前工作目录，cd 命令需要完整路径或目录名称。
 
-在没有任何选项的情况下运行cd命令，将进入到到home文件夹。注意，只有具有sudo权限的用户才能执行。
+在没有任何选项的情况下运行 cd 命令，将进入到 home 文件夹。注意，只有具有 sudo 权限的用户才能执行。
 
-例如，您在/uos/myfiles/documents中，想跳转到documents的子目录photos。只需要输入以下命令回车即可：
+例如，您在 /uos/myfiles/documents 中，想跳转到 documents 的子目录 photos。只需要输入以下命令回车即可：
 
 ```
 cd photos
 ```
 
-如果你想切换到一个全新的目录，例如/uos/myfiles/movies，则必须在cd命令后输入目录的绝对路径：
+如果你想切换到一个全新的目录，例如 /uos/myfiles/movies，则必须在 cd 命令后输入目录的绝对路径：
 
 ```
 cd /uos/myfiles/movies
 ```
 
-以下是一些使用cd命令的快捷方式：
+以下是一些使用 cd 命令的快捷方式：
 
-* `cd ~[username]`：转到另一个用户的home目录。
+* `cd ~[username]`：转到另一个用户的 home 目录。
 * `cd ..`：进入上一级目录。
 * `cd-`：进入之前访问的目录。
 
@@ -123,13 +123,13 @@ cd /uos/myfiles/movies
 
 ls 命令用于列出系统中的文件和目录。**在没有参数的情况下，运行ls命令会显示当前工作目录的内容。**
 
-要查看其他目录的内容，请键入ls和所需的路径。例如，要查看/uos/myfiles/documents文件夹中的文件，请输入：
+要查看其他目录的内容，请键入 ls 和所需的路径。例如，要查看 /uos/myfiles/documents 文件夹中的文件，请输入：
 
 ```
 ls /uos/myfiles/documents
 ```
 
-以下是一些与ls命令一起使用的选项：
+以下是一些与 ls 命令一起使用的选项：
 
 * `ls -R`：列出子目录中的所有文件。
 * `ls -a`：除了可见文件外，还显示隐藏文件。
@@ -153,7 +153,7 @@ cat filename.txt
 
 cp 命令用于复制文件或目录及其内容。请查看以下用例：
 
-例1：将一个文件从当前目录复制到另一个目录，请输入cp，后跟文件名和目标目录。如：
+例1：将一个文件从当前目录复制到另一个目录，请输入 cp，后跟文件名和目标目录。如：
 
 ```
 cp filename.txt /uos/myfiles/documents
@@ -165,13 +165,13 @@ cp filename.txt /uos/myfiles/documents
 cp filename1.txt filename2.txt filename3.txt /uos/myfiles/documents
 ```
 
-例3：将文件的内容复制到同一目录中的新文件，请输入cp ，然后输入源文件和目标文件名。如：
+例3：将文件的内容复制到同一目录中的新文件，请输入 cp ，然后输入源文件和目标文件名。如：
 
 ```
 cp filename1.txt filename2.txt
 ```
 
-例4：要复制整个目录，请在键入源目录之前传递`-R`标志，然后输入目标目录。如：
+例4：要复制整个目录，请在键入源目录之前传递 `-R` 标志，然后输入目标目录。如：
 
 ```
 cp -R /uos/myfiles/documents /uos/myfiles/documents_backup
@@ -181,13 +181,13 @@ cp -R /uos/myfiles/documents /uos/myfiles/documents_backup
 
 mv 命令的主要用途是移动和重命名文件和目录，它不会在执行时产生输出。
 
-只需键入mv，后跟文件名和目标目录。例如，想将filename.txt移动到/uos/myfiles/documents 目录，可使用下面的命令：
+只需键入 mv，后跟文件名和目标目录。例如，想将 filename.txt 移动到 /uos/myfiles/documents 目录，可使用下面的命令：
 
 ```
 mv filename.txt /uos/myfiles/documents
 ```
 
-也可以使用mv命令重命名文件，如：
+也可以使用 mv 命令重命名文件，如：
 
 ```
 mv old_filename.txt new_filename.txt
@@ -203,29 +203,29 @@ mv old_filename.txt new_filename.txt
 mkdir [option] directory_name
 ```
 
-例如，在当前路径下创建一个名为music的目录，可以键入下面命令：
+例如，在当前路径下创建一个名为 music 的目录，可以键入下面命令：
 
 ```
 mkdir music
 ```
 
-要在music中创建一个名为songs的新目录，可使用以下命令：
+要在 music 中创建一个名为 songs 的新目录，可使用以下命令：
 
 ```
 mkdir music/songs
 ```
 
-mkdir命令可以接受许多选项，例如：
+mkdir 命令可以接受许多选项，例如：
 
-* `-p`或`–parents`：在两个现有文件夹之间创建一个目录。例如，`mkdir -p music/2020/songs`在Music和Songs间创建新的名为 2020 的目录。
-* `-m`：设置文件权限。例如，要为所有用户创建一个具有完全读取、写入和执行权限的目录，可输入`mkdir -m777 directory_name`。
+* `-p`或`–parents`：在两个现有文件夹之间创建一个目录。例如，`mkdir -p music/2020/songs` 在 Music 和 Songs 间创建新的名为 2020 的目录。
+* `-m`：设置文件权限。例如，要为所有用户创建一个具有完全读取、写入和执行权限的目录，可输入 `mkdir -m777 directory_name`。
 * `-v`：为每个创建的目录打印一条消息。
 
 ### rmdir 命令
 
-要永久删除空目录，可使用 rmdir 命令。注意，运行此命令的用户应该在父目录中具有sudo权限。
+要永久删除空目录，可使用 rmdir 命令。注意，运行此命令的用户应该在父目录中具有 sudo 权限。
 
-例如，想删除一个名为 personal 的空子目录及其主文件夹mydir，可键入：
+例如，想删除一个名为 personal 的空子目录及其主文件夹 mydir，可键入：
 
 ```
 rmdir -p mydir/personal
@@ -275,7 +275,7 @@ man 命令提供了可以在终端中运行的任何命令或实用程序的用�
 man [command_name]
 ```
 
-例如，想要访问ls命令的手册，可输入：
+例如，想要访问 ls 命令的手册，可输入：
 
 ```
 man ls
@@ -285,7 +285,7 @@ man ls
 
 touch 命令用于创建一个空文件或生成和修改时间戳。
 
-例如，输入以下命令，可以在documents目录中创建一个名为new的 HTML 文件：
+例如，输入以下命令，可以在 documents 目录中创建一个名为 new 的 HTML 文件：
 
 ```
 touch /uos/myfiles/documents/new.html
@@ -295,7 +295,7 @@ touch /uos/myfiles/documents/new.html
 
 locate 命令可以在数据库系统中找到一个文件。
 
-此外，添加`-i`参数将关闭区分大小写，即使不记得文件的确切名称也可以搜索文件。
+此外，添加 `-i` 参数将关闭区分大小写，即使不记得文件的确切名称也可以搜索文件。
 
 要查找包含两个或更多单词的内容，请使用星号 ( * )。
 
@@ -305,11 +305,11 @@ locate 命令可以在数据库系统中找到一个文件。
 locate -i apple*orange
 ```
 
-该命令将搜索包含单词apple和orange的文件，无论它们使用大写还是小写字母。
+该命令将搜索包含单词 apple 和 orange 的文件，无论它们使用大写还是小写字母。
 
 ### find 命令
 
-使用find命令在特定目录下搜索文件并执行后续操作。
+使用 find 命令在特定目录下搜索文件并执行后续操作。
 
 语法如下：
 
@@ -317,7 +317,7 @@ locate -i apple*orange
 find [option] [path] [expression]
 ```
 
-例如，想要在home及其子文件夹中查找名为notes.txt的文件：
+例如，想要在 home 及其子文件夹中查找名为 notes.txt 的文件：
 
 ```
 find /home -name notes.txt
@@ -325,7 +325,7 @@ find /home -name notes.txt
 
 其他使用find命令的例子：
 
-* `find -name filename.txt` ：在当前目录中查找文件filename.txt。
+* `find -name filename.txt` ：在当前目录中查找文件 filename.txt。
 * `find ./ -type d -name directoryname`：来查找目录。
 
 ### df 命令
@@ -352,15 +352,15 @@ df -h
 
 ### du 命令
 
-如果要检查文件或目录占用了多少空间，可以使用du命令。
+如果要检查文件或目录占用了多少空间，可以使用 du 命令。
 
-**注意，使用du命令时必须指定目录路径。例如，要检查/uos/myfiles/documents，请输入：
+**注意，使用 du 命令时必须指定目录路径。例如，要检查 /uos/myfiles/documents，请输入：
 
 ```
 du /uos/myfiles/documents
 ```
 
-以下flag标志可与 du 命令配合使用，如：
+以下 flag 标志可与 du 命令配合使用，如：
 
 * `-s`：提供指定文件夹的总大小。
 * `-m`：以MB为单位提供文件夹和文件信息
@@ -369,7 +369,7 @@ du /uos/myfiles/documents
 
 ### head 与 tail 命令
 
-head命令用来查看文本的前十行。添加选项可更改显示的行数。head命令还可用于将管道数据输出到CLI。
+head 命令用来查看文本的前十行。添加选项可更改显示的行数。head 命令还可用于将管道数据输出到 CLI。
 
 语法如下：
 
@@ -387,7 +387,7 @@ tail [option] [file]
 
 ### diff 命令
 
-diff命令用于逐行比较两个文件的内容。分析完后，会显示不匹配的部分。
+diff 命令用于逐行比较两个文件的内容。分析完后，会显示不匹配的部分。
 
 语法如下：
 
@@ -409,7 +409,7 @@ diff note.txt note_update.txt
 
 ### tar 命令
 
-tar 命令将多个文件归档到一个TAR文件中，TAR是一种类似于ZIP的常见 Linux 格式，具有可选的压缩功能。
+tar 命令将多个文件归档到一个 TAR 文件中，TAR 是一种类似于 ZIP 的常见 Linux 格式，具有可选的压缩功能。
 
 语法如下：
 
@@ -417,20 +417,20 @@ tar 命令将多个文件归档到一个TAR文件中，TAR是一种类似于ZIP�
 tar [options] [archive_file] [file or directory to be archived]
 ```
 
-例如，在当前目录下创建一个名为newarchive.tar的新TAR文件，包含 /var/log 目录下的全部文件，可输入：
+例如，在当前目录下创建一个名为 newarchive.tar 的新 TAR 文件，包含 /var/log 目录下的全部文件，可输入：
 
 ```
 tar -cvf newarchive.tar /var/log
 ```
 
-tar命令接受许多选项，如：
+tar 命令接受许多选项，如：
 
 * `-x`：提取TAR文件包含的内容。
 * `-t`：列出TAR文件包含的内容。
 
 ### zip 与 unzip 命令
 
-使用zip命令将文件压缩成 ZIP 文件，可以自动选择最佳压缩率。
+使用 zip 命令将文件压缩成 ZIP 文件，可以自动选择最佳压缩率。
 
 语法如下：
 
@@ -438,13 +438,13 @@ tar命令接受许多选项，如：
 zip [options] zipfile file1 file2...
 ```
 
-例如，想将一个名为note.txt的文件压缩为当前目录中的 archive.zip，可输入命令：
+例如，想将一个名为 note.txt 的文件压缩为当前目录中的 archive.zip，可输入命令：
 
 ```
 zip archive.zip note.txt
 ```
 
-另一方面，unzip命令从存档中提取压缩文件。语法如下：
+另一方面，unzip 命令从存档中提取压缩文件。语法如下：
 
 ```
 unzip [options] file_name.zip
@@ -458,7 +458,7 @@ unzip archive.zip
 
 ### jobs 命令
 
-jobs 是 shell 启动的进程。jobs命令显示所有正在运行的进程及其状态。注意，此命令仅在csh、bash、tcsh 和 ksh shell 中可用。
+jobs 是 shell 启动的进程。jobs 命令显示所有正在运行的进程及其状态。注意，此命令仅在 csh、bash、tcsh 和 ksh shell 中可用。
 
 语法如下：
 
@@ -490,9 +490,9 @@ ps ux
 kill [signal_option] PID
 ```
 
-signal_option包含64种signals，但这两种signals是最常用的：
+signal_option 包含64种 signals，但这两种 signals 是最常用的：
 
-* SIGTERM 请求进程停止运行并给它一些时间来保存所有进度。如果输入 kill 命令时没有指定signal_option，系统将默认使用 SIGTERM。
+* SIGTERM 请求进程停止运行并给它一些时间来保存所有进度。如果输入 kill 命令时没有指定 signal_option，系统将默认使用 SIGTERM。
 * SIGKILL 强制进程停止，将丢失未保存的进度。
 
 例如，进程的 PID 是 63773，想强制关闭它，可输入：
@@ -521,7 +521,7 @@ ping baidu.com
 
 使用 wget 命令可以从 Internet 下载文件。并在后台工作，不会妨碍其他正在运行的进程。
 
-wget命令使用 HTTP、HTTPS 和 FTP 协议检索文件。它可以执行递归下载，通过遵循目录结构和链接传输网站部分，创建网页的本地版本。
+wget 命令使用 HTTP、HTTPS 和 FTP 协议检索文件。它可以执行递归下载，通过遵循目录结构和链接传输网站部分，创建网页的本地版本。
 
 要使用它，请输入以下命令：
 
@@ -549,7 +549,7 @@ top
 
 ### history 命令
 
-history 命令会列出最多 500 条之前执行过的命令，让您可以重复使用它们而无需重新输入。注意，只有具有sudo权限的用户才能执行此命令。该实用程序的运行方式还取决于您使用的 Linux shell。
+history 命令会列出最多 500 条之前执行过的命令，让您可以重复使用它们而无需重新输入。注意，只有具有 sudo 权限的用户才能执行此命令。该实用程序的运行方式还取决于您使用的 Linux shell。
 
 语法如下：
 
@@ -561,7 +561,7 @@ history [option]
 
 通过文本编辑器（例如nano、vi）来编辑和管理文件。
 
-如果您的虚拟环境没有安装nano，可使用下面命令安装：
+如果您的虚拟环境没有安装 nano，可使用下面命令安装：
 
 ```
 sudo apt-get -y install nano
@@ -579,7 +579,7 @@ vi main.py
 
 ### ps 命令
 
-ps命令生成系统中所有正在运行的进程的快照，只需在 CLI 输入：
+ps 命令生成系统中所有正在运行的进程的快照，只需在 CLI 输入：
 
 ```
 ps
