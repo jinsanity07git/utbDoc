@@ -6,13 +6,13 @@
 
 ## 添加内容控件
 
-在视图页面草稿中，点击工作区顶部`内容控件`按钮，即可完成内容控件的添加，如下图所示：
+在视图页面草稿中，点击工作区顶部 <img src="./././././media/logo/controlcontent.png" width="50" height="20"> 按钮，即可完成内容控件的添加，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/addcontents.gif "添加内容控件")
 
 ## 编辑内容控件
 
-点击控件右侧`编辑`按钮，即可打开`控件设置`对话框，对内容控件的属性进行编辑与设置，如下图所示：
+点击控件右侧 <img src="./././././media/logo/editcontrol.png" width="60" height="20"> 按钮，即可打开`控件设置`对话框，对内容控件的属性进行编辑与设置，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/editcontents1.gif "编辑内容控件 - 打开控件设置对话框")
 
@@ -36,6 +36,6 @@
 
 ## 预览测试
 
-滑动工作区右上角`预览`滑块，进入视图页面"预览模式"，可以对内容控件进行测试和效果预览，如下图所示：
+滑动工作区右上角 <img src="./././././media/logo/previewmv.png" width="50" height="20"> 滑块，进入视图页面 "预览模式"，可以对内容控件进行测试和效果预览，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/testcontents.gif "测试内容控件")

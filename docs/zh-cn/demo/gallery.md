@@ -1,17 +1,145 @@
-# Matrix 案例
+# Matrix 案例与应用
 
-## 开发教学
+## 模型视图应用
 
-* 用uCode打造高德地图poi信息的爬取云装备 [演示视频](https://mp.weixin.qq.com/s/oDd2uAZrz3G7WL9ZKMQ8xQ)  
+<table rules="none" align="center">
+    <tr style="background-color: #ffffff;">
+        <td>
+            <center>
+                <a href="">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                将模型视图复用为云应用App前端
+            </center>
+        </td>
+        <td>
+            <center>
+                <a href="">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                利用模型视图创建数据对象
+            </center>
+        </td>
+        <td>
+            <center>
+                <a href="">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                利用模型视图开展问卷调查
+            </center>
+        </td>
+        <td>
+            <center>
+                <a href="">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                利用模型视图定制外业调查App
+            </center>
+        </td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+        <td>
+            <center>
+                <a href="">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                进行文件收集
+            </center>
+        </td>
+    </tr>
+</table>
+
+## 开发实践
+
+<table rules="none" align="center">
+    <tr style="background-color: #ffffff;">
+        <td>
+            <center>
+                <a href="zh-cn/demo/devinstruction/cplex_docker_install.html">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                在 Matrix Code 安装使用CPLEX
+            </center>
+        </td>
+        <td>
+            <center>
+                <a href="zh-cn/demo/devinstruction/cplex_docker_install.md">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                在 Matrix Code 安装使用 Matlab
+            </center>
+        </td>
+    </tr>
+</table>
 
 
+## 项目应用
+
+<table rules="none" align="center">
+    <tr style="background-color: #ffffff;">
+        <td>
+            <center>
+                <a href="zh-cn/demo/projects/ctppintro.md">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                A web-based demo for comparing the CTPP data across different states
+            </center>
+        </td>
+        <td>
+            <center>
+                <a href="">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                add here
+            </center>
+        </td>
+    </tr>
+</table>
 
 
 ## 云实验室
 
-* 车辆轨迹可视化云装备：utb交管云实验室（一）[演示视频](https://mp.weixin.qq.com/s/jtM7zp7u5eir1xQ-v4JkfA)
+<table rules="none" align="center">
+    <tr style="background-color: #ffffff;">
+        <td>
+            <center>
+                <a href="https://mp.weixin.qq.com/s/jtM7zp7u5eir1xQ-v4JkfA">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                车辆轨迹可视化云装备：交管云实验室 (一)
+            </center>
+        </td>
+        <td>
+            <center>
+                <a href="https://mp.weixin.qq.com/s/cPrRxkgOgz6n5wV4ldKQRA">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                通用轨道客流热力生成器：公交云实验室系列（一）
+            </center>
+        </td>
+        <td>
+            <center>
+                <a href="">
+                    <img src="././media/gallery/apps_ctpp.png" width="70%" />
+                </a>
+                <br/>
+                add new...
+            </center>
+        </td>
+    </tr>
+</table>
 
-* 通用轨道客流热力生成器：utb公交云实验室系列（一）[演示视频](https://mp.weixin.qq.com/s/cPrRxkgOgz6n5wV4ldKQRA) 
 
 
 

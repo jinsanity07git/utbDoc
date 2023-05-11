@@ -1,6 +1,7 @@
 - [Matrix用户指南](zh-cn/userguide/README.md)
   - [Matrix简介](zh-cn/userguide/matrixintro.md)
   - [产品更新日志](zh-cn/userguide/updatelog.md)
+  - [案例与应用](zh-cn/demo/gallery.md)
   - Matrix.OS
     - [概览](zh-cn/userguide/os/osintro.md)
     - 组件
@@ -63,15 +64,6 @@
               - [自定义拓展](zh-cn/userguide/os/tools/modelview/customize.md)
             - [控件关联](zh-cn/userguide/os/tools/modelview/controllink.md)
           - [协同设计](zh-cn/userguide/os/tools/modelview/collaborate.md)
-
-        - 视图应用
-          - [复用为应用前端UI](zh-cn/userguide/code/README.md)
-          - [实例化为数据原型](zh-cn/userguide/code/README.md)
-          - [定制问卷调查](zh-cn/userguide/code/README.md)
-          - [众包信息采集](zh-cn/userguide/code/README.md)
-          - [一键生成外业调查App](zh-cn/userguide/code/README.md)
-          - [其它定制开发](zh-cn/userguide/code/README.md)
-
       - Matrix Code
         - [概览与常用操作](zh-cn/userguide/os/tools/code/intro.md)
         - [配置开发环境](zh-cn/userguide/os/tools/code/envconfig.md)
@@ -152,7 +144,7 @@
     - [社区](zh-cn/userguide/code/devguide.md)
     - [动态](zh-cn/userguide/code/devguide.md)
     - [个人中心](zh-cn/userguide/code/devguide.md)
-  - Gallery
+  
 
 
     

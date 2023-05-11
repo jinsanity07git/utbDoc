@@ -14,7 +14,7 @@
 
 ## 添加时间戳控件
 
-在视图页面草稿中，点击工作区顶部`时间戳控件`按钮，即可完成时间戳控件的添加，如下图所示：
+在视图页面草稿中，点击工作区顶部 <img src="./././././media/logo/controltimestamp.png" width="55" height="20"> 按钮，即可完成时间戳控件的添加，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/addtimestamp.gif "添加时间戳控件")
 
@@ -24,12 +24,12 @@
 
 ## 编辑时间戳控件
 
-点击控件右侧`编辑`按钮，即可对时间戳控件的"控件ID"和"控件文本"进行编辑，完成后点击`保存`按钮，即保存设置并返回视图页面，如下图所示：
+点击控件右侧 <img src="./././././media/logo/editcontrol.png" width="60" height="20"> 按钮，即可对时间戳控件的 "控件ID" 和 "控件文本" 进行编辑，完成后点击 <img src="./././././media/logo/savecontrol.png" width="50" height="20"> 按钮，即保存设置并返回视图页面，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/edittimestamp.gif "编辑时间戳控件 - 控件ID与文本编辑")
 
 ## 预览测试
 
-滑动工作区右上角`预览`滑块，进入视图页面"预览模式"，可以对时间戳控件进行测试和效果预览，查看数据节点树 JSON 文件校验数据正确性，如下图所示：
+滑动工作区右上角 <img src="./././././media/logo/previewmv.png" width="50" height="20"> 滑块，进入视图页面 "预览模式"，可以对时间戳控件进行测试和效果预览，查看数据节点树 JSON 文件校验数据正确性，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/modelview/testtimestamp.gif "测试时间戳控件")
