@@ -74,72 +74,38 @@
           - [运行调试](zh-cn/userguide/code/devguide.md)
         - [协同开发](zh-cn/userguide/code/devguide.md)
         - [与VS Code结合](zh-cn/userguide/os/filebasic.md)
-
-      - [交互地图](zh-cn/userguide/os/filebasic.md)
+      - 交互地图
+        - [地图视角](zh-cn/userguide/map/README.md) 视角，编译器，基座，组装平台。。。
+        - 图层
+          - [组成架构](zh-cn/userguide/map/README.md)
+          - [数据](zh-cn/userguide/map/README.md)
+          - [设置与管理](zh-cn/userguide/map/README.md)
+          - [嵌套、组装和绑定](zh-cn/userguide/map/README.md)
+          - [成长与演化](zh-cn/userguide/map/README.md)
+          - [地图可以是编译器]
+        - 发布地图到开放平台
+          - [概述](zh-cn/userguide/code/devguide.md)
+          - [基本设置](zh-cn/userguide/code/devguide.md)
+          - [收费与定价](zh-cn/userguide/code/devguide.md)
+        - 协同
+          - [分享与并行操作](zh-cn/userguide/map/README.md)
+          - [权限管理](zh-cn/userguide/map/README.md)
+          - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
+        - 运营与维护
+          - [地图信息更新与管理](zh-cn/userguide/code/devguide.md)
+          - [重构](zh-cn/userguide/code/devguide.md)
+          - [下线](zh-cn/userguide/code/devguide.md)
+          - [取消发布](zh-cn/userguide/code/devguide.md)
+          - [合作者管理](zh-cn/userguide/code/devguide.md)
+          - [用户管理与互动](zh-cn/userguide/code/devguide.md)
+        - [Open with Kepler.gl](zh-cn/userguide/code/devguide.md)
       - [交互图纸](zh-cn/userguide/os/filebasic.md)
       - [数据管理器](zh-cn/userguide/os/filebasic.md)
-      
-      
-      - [Kepler.gl](zh-cn/userguide/os/filebasic.md)
       - [嵌套、复用与组装](zh-cn/userguide/os/filebasic.md)
-      - [Pocket](zh-cn/userguide/os/filebasic.md)
-    - 媒体与素材
-      
-
-      
-
-    - 构建交互地图
-      - [地图的再定义](zh-cn/userguide/map/README.md) 视角，编译器，基座，组装平台。。。
-      - 图层
-        - [组成架构](zh-cn/userguide/map/README.md)
-        - [数据](zh-cn/userguide/map/README.md)
-        - [设置与管理](zh-cn/userguide/map/README.md)
-        - [嵌套、组装和绑定](zh-cn/userguide/map/README.md)
-        - [成长与演化](zh-cn/userguide/map/README.md)
-      - 发布地图到开放平台
-        - [概述](zh-cn/userguide/code/devguide.md)
-        - [基本设置](zh-cn/userguide/code/devguide.md)
-        - [收费与定价](zh-cn/userguide/code/devguide.md)
-      - 协同
-        - [分享与并行操作](zh-cn/userguide/map/README.md)
-        - [权限管理](zh-cn/userguide/map/README.md)
-        - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
-      - 运营与维护
-        - [地图信息更新与管理](zh-cn/userguide/code/devguide.md)
-        - [重构](zh-cn/userguide/code/devguide.md)
-        - [下线](zh-cn/userguide/code/devguide.md)
-        - [取消发布](zh-cn/userguide/code/devguide.md)
-        - [合作者管理](zh-cn/userguide/code/devguide.md)
-        - [用户管理与互动](zh-cn/userguide/code/devguide.md)
-      - [Kepler.gl视角](zh-cn/userguide/code/devguide.md)
-
+    - 管理媒体与素材
     - 项目和资源
-      - [概述](zh-cn/userguide/map/README.md)
-      - 协同管理
-        - [分享与并行操作](zh-cn/userguide/map/README.md)
-        - [权限管理](zh-cn/userguide/map/README.md)
-        - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
-      - 发布到开放平台
-        - [概述](zh-cn/userguide/code/devguide.md)
-        - [基本设置](zh-cn/userguide/code/devguide.md)
-        - [收费与定价](zh-cn/userguide/code/devguide.md)
-      - 运营与维护
-        - [信息更新与管理](zh-cn/userguide/code/devguide.md)
-        - [重构](zh-cn/userguide/code/devguide.md)
-        - [下线](zh-cn/userguide/code/devguide.md)
-        - [取消发布](zh-cn/userguide/code/devguide.md)
-        - [合作者管理](zh-cn/userguide/code/devguide.md)
-        - [用户管理与互动](zh-cn/userguide/code/devguide.md)
-        
-    - 无限可能的沙盒
-      - [概述] 知识组件化 自己开发组件，使用别人组件
-      - [复用和衍生](zh-cn/userguide/code/devguide.md) 使用别人的组件作为自己开发的一部分，在既有组件上生成出来新的组件
-      - [嵌套](zh-cn/userguide/code/devguide.md) 
-      - [融合](zh-cn/userguide/code/devguide.md)
-      - [组装](zh-cn/userguide/code/devguide.md)
-      - [模板]
 
-  - 开放平台
+  - Matrix 开放平台
     - [市场](zh-cn/userguide/code/devguide.md)
     - [社区](zh-cn/userguide/code/devguide.md)
     - [动态](zh-cn/userguide/code/devguide.md)

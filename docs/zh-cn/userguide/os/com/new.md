@@ -2,9 +2,9 @@
 
 ## 创建文件夹
 
-**文件夹是Matrix所有云端组件的载体和工作区**。
+**文件夹是 Matrix 所有云端组件的载体和工作区**。
 
-在Matrix.OS上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createfolder1.png" width="75" height="20"> (或右键单击云桌面空白处选择<img src="./././././media/logo/createfolder2.png" width="75" height="20">)，在弹出对话框中输入名称，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可在OS当前路径下创建一个新文件夹，如下图所示：
+在 Matrix.OS 上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createfolder1.png" width="75" height="20"> (或右键单击云桌面空白处选择<img src="./././././media/logo/createfolder2.png" width="75" height="20">)，在弹出对话框中输入名称，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可在 OS 当前路径下创建一个新文件夹，如下图所示：
 
 ![Matrix.OS](../../../../media/os/com/creatfolder.gif "创建文件夹")
 
@@ -12,7 +12,7 @@
 
 模型视图（Model-View）是 Matrix 用于实现数据标准化、前端UI设计、和交互接口功能的标准模型与可视化页面。关于模型视图的详细介绍和使用请参考后续教程《模型视图管理器》相关章节。
 
-在 Matrix.OS 上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createmv1.png" width="75" height="20"> (或右键单击云桌面空白处选择  <img src="./././././media/logo/createmv2.png" width="75" height="20">)，在弹出对话框中输入名称，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可在OS当前路径下创建一个新模型视图，如下图所示：
+在 Matrix.OS 上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createmv1.png" width="75" height="20"> (或右键单击云桌面空白处选择  <img src="./././././media/logo/createmv2.png" width="75" height="20">)，在弹出对话框中输入名称，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可在 OS 当前路径下创建一个新模型视图，如下图所示：
 
 ![Matrix.OS](../../../../media/os/com/creatmodel.gif "创建模型视图")
 
@@ -78,13 +78,13 @@
 
 Pocket 可以通过链接方式将资源引用到 Matrix.OS，并在各种类型组件中使用(代码、地图等等)。
 
-在 Matrix.OS上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createpocket1.png" width="60" height="20"> (或右键单击云桌面空白处选择 <img src="./././././media/logo/createpocket2.png" width="60" height="20">)，在弹出对话框中，输入口袋的名称和链接地址，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可完成 Pocket 的创建，如下图所示：
+在 Matrix.OS 上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createpocket1.png" width="60" height="20"> (或右键单击云桌面空白处选择 <img src="./././././media/logo/createpocket2.png" width="60" height="20">)，在弹出对话框中，输入口袋的名称和链接地址，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可完成 Pocket 的创建，如下图所示：
 
 ![Matrix.OS](../../../../media/os/com/creatpocket.gif "创建Pocket")
 
 以上显示了创建一个 Pocket，将百度云盘数据作为外部资源引入到 Matrix.OS 的例子。通过 Pocket 也可以将视频、网页等多媒体资源嵌入到 Matrix 组件中。
 
-当然，Pocket 也可用来链接 Matrix.OS 内生资源，输入 Pocket 名称后，点击 <img src="./././././media/logo/cloudimport.png" width="50" height="20"> 按钮，在对话框中，选定要链接的OS资源，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 即可，如下图所示：
+当然，Pocket 也可用来链接 Matrix.OS 内生资源，输入 Pocket 名称后，点击 <img src="./././././media/logo/cloudimport.png" width="50" height="20"> 按钮，在对话框中，选定要链接的 OS 资源，点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 即可，如下图所示：
 
 ![Matrix.OS](../../../../media/os/com/creatpocketfromOS.gif "创建Pocket-链接OS资源")
 

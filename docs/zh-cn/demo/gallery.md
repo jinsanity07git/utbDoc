@@ -1,4 +1,4 @@
-# Matrix 案例与应用
+# Matrix 玩法与案例应用
 
 ## 模型视图应用
 
@@ -140,7 +140,14 @@
     </tr>
 </table>
 
+## 沙盒玩法
 
+知识组件化 自己开发组件，使用别人组件
+[复用和衍生](zh-cn/userguide/code/devguide.md) 使用别人的组件作为自己开发的一部分，在既有组件上生成出来新的组件
+[嵌套](zh-cn/userguide/code/devguide.md) 
+[融合](zh-cn/userguide/code/devguide.md)
+[组装](zh-cn/userguide/code/devguide.md)
+[模板]
 
 
 

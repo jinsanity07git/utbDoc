@@ -10,14 +10,13 @@ Matrix 平台是基于"体用结合"的核心理念构筑的，组件是"体"，
 
 用户可以在 Matrix 使用多种工具，包括：
 
-* 文件管理器(File Explorer)
-* 终端(Terminal)
-* 模型视图管理器(Model View Studio)
-* 开发工具(Matrix Code)
+* 文件管理器 (File Explorer)
+* 终端 (Terminal)
+* 模型视图管理器 (Model View Studio)
+* 开发工具 (Matrix Code)
 * Kepler.gl
-* 交互地图(Map)
-* 交互图纸(Drawing)
-* 数据管理器(Data Explorer)
+* 交互地图 (Map)
+* 交互图纸 (Drawing)
 * (持续拓展中...)
 
 

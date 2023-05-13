@@ -6,17 +6,17 @@ Code 是内生于 Matrix.OS 的轻型云端集成开发工具，它可以用于�
 
 ## 打开 Code
 
-在云桌面右键点击任一 Matrix.OS 组件，在弹出菜单中选择`在Code中打开`，即可打开 Code，如下图所示：
+在云桌面右键点击任一 Matrix.OS 组件，在弹出菜单中选择 <img src="./././././media/logo/openwithcode.png" width="80" height="20">，即可打开 Code，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/code/opencode.gif "打开Code")
 
-## 创建组件
+## 在 Code 中创建组件
 
-单击 Code 左侧导航栏上方选中组件文件夹，然后点击`+`按钮，即可在组件文件夹根目录创建新组件，如下图所示：
+单击 Code 左侧导航栏上方选中组件文件夹，然后点击 <img src="./././././media/logo/codecreate.png" width="20" height="20"> 按钮，即可在组件文件夹根目录创建新组件，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/code/newitemroot.gif "在根目录创建组件")
 
-也可右键点击任一子文件夹，在弹出菜单中选择`创建`，即可在相应子文件夹内创建新组件，如下图所示：
+也可右键点击任一子文件夹，在弹出菜单中选择 <img src="./././././media/logo/codecreatemenu.png" width="30" height="20">，即可在相应子文件夹内创建新组件，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/code/newitemfolder.gif "在其它位置创建组件")
 
@@ -55,13 +55,13 @@ Code 是内生于 Matrix.OS 的轻型云端集成开发工具，它可以用于�
 
 ### 文件保存
 
-点击 Code 右上角`保存`按钮，可以对当前编辑文件进行保存，如下图所示：
+点击 Code 右上角 <img src="./././././media/logo/codesave.png" width="40" height="20"> 按钮，可以对当前编辑文件进行保存，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/code/savefile.gif "保存文件")
 
-## 运行代码文件
+## 调试运行代码
 
-在左侧导航栏点击代码文件，即可打开该文件并进行编辑，点击右上角`调试运行`按钮，可以运行该代码，运行结果显示在右侧终端窗口中，如下图所示：
+在左侧导航栏点击代码文件，即可打开该文件并进行编辑，点击右上角 <img src="./././././media/logo/codedebug.png" width="55" height="20"> 按钮，可以调试运行该代码，运行结果显示在右侧终端窗口中，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/code/runcode.gif "调试运行代码")
 

@@ -1,5 +1,17 @@
 # 管理与操作
 
+## 打开
+
+在云桌面，左键单击任一组件，或者右键点击该组件，从菜单中选择 <img src="./././././media/logo/open2.png" width="40" height="20">，即可打开该组件，如下图所示：
+
+![Matrix.OS](../../../../media/os/com/openitem.gif "打开操作")
+
+## 重命名
+
+右键点击组件，从菜单中选择 <img src="./././././media/logo/rename2.png" width="55" height="20">，在弹出对话框中输入新的组件名称，即可完成对组件的重命名，如下图所示：
+
+![Matrix.OS](../../../../media/os/com/renameitem.gif "重命名操作")
+
 ## 选定
 
 ### 多选模式
@@ -81,3 +93,9 @@ Matrix.OS 提供了收藏功能，方便用户随时保存收藏感兴趣和常�
 点击左侧导航栏中的 <img src="./././././media/logo/fav1.png" width="50" height="20"> 按钮，即进入 Matrix.OS 收藏夹页面，可以查看您所有收藏的组件，如下图所示：
 
 ![Matrix.OS](../../../../media/os/com/favorite.gif "进入收藏夹")
+
+## 下载
+
+右键点击组件，从菜单中选择 <img src="./././././media/logo/download2.png" width="40" height="20">，将对组件进行打包压缩并下载，如下图所示：
+
+![Matrix.OS](../../../../media/os/com/downloaditem.gif "下载操作")
