@@ -65,15 +65,19 @@
             - [控件关联](zh-cn/userguide/os/tools/modelview/controllink.md)
           - [协同设计](zh-cn/userguide/os/tools/modelview/collaborate.md)
       - Matrix Code
-        - [概览与常用操作](zh-cn/userguide/os/tools/code/intro.md)
+        - [概览](zh-cn/userguide/os/tools/code/intro.md)
+        - [常用操作](zh-cn/userguide/os/tools/code/operations.md)
         - [配置开发环境](zh-cn/userguide/os/tools/code/envconfig.md)
-        - [开发云应用App](zh-cn/userguide/os/tools/code/devapp.md)
-          - [概述](zh-cn/userguide/code/README.md)
-          - [视图端口](zh-cn/userguide/code/devguide.md)
-          - [数据与文件端口](zh-cn/userguide/code/devguide.md)
-          - [运行调试](zh-cn/userguide/code/devguide.md)
-        - [协同开发](zh-cn/userguide/code/devguide.md)
-        - [与VS Code结合](zh-cn/userguide/os/filebasic.md)
+        - 开发云应用
+          - [简介](zh-cn/userguide/os/tools/code/devapp.md)
+          - 你的第一个云应用
+            - [建立应用文件夹](zh-cn/userguide/os/tools/code/newapp.md)
+            - [设置引导程序](zh-cn/userguide/os/tools/code/devsetmain.md)
+            - [用户界面接口](zh-cn/userguide/os/tools/code/devUI.md)
+            - [应用输出设置](zh-cn/userguide/os/tools/code/devoutput.md)
+            - [运行调试](zh-cn/userguide/os/tools/code/devdebug.md)
+        - [协同开发](zh-cn/userguide/os/tools/code/devshare.md)
+        - [与 VSCode 结合](zh-cn/userguide/os/tools/code/devvscode.md)
       - 交互地图
         - [地图视角](zh-cn/userguide/map/README.md) 视角，编译器，基座，组装平台。。。
         - 图层
