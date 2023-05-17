@@ -68,14 +68,12 @@
         - [概览](zh-cn/userguide/os/tools/code/intro.md)
         - [常用操作](zh-cn/userguide/os/tools/code/operations.md)
         - [配置开发环境](zh-cn/userguide/os/tools/code/envconfig.md)
-        - 开发云应用
-          - [简介](zh-cn/userguide/os/tools/code/devapp.md)
-          - 你的第一个云应用
-            - [建立应用文件夹](zh-cn/userguide/os/tools/code/newapp.md)
-            - [设置引导程序](zh-cn/userguide/os/tools/code/devsetmain.md)
-            - [用户界面接口](zh-cn/userguide/os/tools/code/devUI.md)
-            - [应用输出设置](zh-cn/userguide/os/tools/code/devoutput.md)
-            - [运行调试](zh-cn/userguide/os/tools/code/devdebug.md)
+        - 你的第一个云应用
+          - [起步](zh-cn/userguide/os/tools/code/devapp.md)
+          - [设置引导程序](zh-cn/userguide/os/tools/code/devsetmain.md)
+          - [建立用户界面接口](zh-cn/userguide/os/tools/code/devUI.md)
+          - [应用输出设置](zh-cn/userguide/os/tools/code/devoutput.md)
+          - [运行调试](zh-cn/userguide/os/tools/code/devdebug.md)
         - [协同开发](zh-cn/userguide/os/tools/code/devshare.md)
         - [与 VSCode 结合](zh-cn/userguide/os/tools/code/devvscode.md)
       - 交互地图
