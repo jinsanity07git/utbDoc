@@ -1,5 +1,9 @@
 # Code 常用操作
 
+您在 Code 中所做的所有操作都是完全同步于您的云桌面 OS 文件管理系统的。下图对比了云桌面文件管理器和 Code 两种不同视角对同一组件文件夹内容的展示：
+
+![Matrix.OS](../../../../../media/os/tools/code/codeview.png "OS 与 Code 视角")
+
 ## 创建组件
 
 单击 Code 左侧导航栏上方选中组件文件夹，然后点击 <img src="./././././media/logo/codecreate.png" width="20" height="20"> 按钮，即可在组件文件夹根目录创建新组件，如下图所示：
@@ -9,8 +13,6 @@
 也可右键点击任一子文件夹，在弹出菜单中选择 <img src="./././././media/logo/codecreatemenu.png" width="30" height="20">，即可在相应子文件夹内创建新组件，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/code/newitemfolder.gif "在其它位置创建组件")
-
-可以发现，在 Code 中创建组件与在云桌面 OS 创建组件没有任何不同，Code 完全使用了 Matrix.OS 的文件管理系统。
 
 ## 文件/文件夹操作
 

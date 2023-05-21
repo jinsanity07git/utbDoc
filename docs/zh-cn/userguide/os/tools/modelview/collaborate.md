@@ -4,7 +4,7 @@
 
 ## 分享视图
 
-右键点击要分享的视图，在弹出菜单中选择 <img src="./././././media/logo/share2.png" width="40" height="20">，即打开`分享管理`对话框。
+在云桌面，右键点击要分享的视图，在弹出菜单中选择 <img src="./././././media/logo/share2.png" width="40" height="20">，即打开`分享管理`对话框。
 
 输入要分享的用户名，设置权限后，点击 <img src="./././././media/logo/addmember.png" width="40" height="20"> 按钮，即可完成将用户添加到分享列表。
 
