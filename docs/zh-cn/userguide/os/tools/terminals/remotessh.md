@@ -3,7 +3,7 @@
 
 很多代码编辑器或集成开发环境 IDE 都支持使用 SSH 连接远程主机进行文件管理、代码编写、开发、调试与部署。本文以微软的 Visual Studio Code (VSCode) 为例，详细介绍使用 Remote - SSH 连接 Matrix.OS 云桌面，并使用 VSCode 终端来实现对 Matrix.OS 的远程管理。
 
-关于使用 VSCode 在 Matrix.OS 实现远程代码编写、调试、部署上线的方法会在后续教程中介绍，在此就不赘述了。
+关于使用 VSCode 在 Matrix.OS 实现远程代码编写、调试、部署上线的方法和案例参见《[Matrix 玩法与案例应用：开发实践](zh-cn/demo/gallery.md)》，在此就不赘述了。
 
 **注意：Remote - SSH 插件是基于 OpenSSH 的，因此在您的计算机上需要装有 OpenSSH 的客户端，才可以通过这个插件连接到 Matrix.OS，否则 VSCode 会报错。**
 

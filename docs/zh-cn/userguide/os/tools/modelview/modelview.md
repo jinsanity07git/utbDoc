@@ -1,8 +1,8 @@
 # Matrix 模型视图简介
 
-模型视图（Model-View）是 Matrix 用于实现数据标准化、前端 UI 设计、和交互接口功能的标准模型与可视化页面。一般由单个或多个视图页面组成，以满足不同应用场景的需求，如下图所示：
+![Matrix.OS](../../../../../media/os/tools/modelview/multiview.gif "模型视图页面示例")
 
-![Matrix.OS](../../../../../media/os/tools/modelview/multiview.gif "多视图页面示例")
+模型视图（Model-View）是 Matrix 用于实现数据标准化、前端 UI 设计、和交互接口功能的标准模型与可视化页面。一般由单个或多个视图页面组成，以满足不同应用场景的需求。
 
 ## 模型视图与UI设计
 
