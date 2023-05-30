@@ -8,13 +8,13 @@
 
 从 Map 左侧导航栏可以发现，Map 实际上是云桌面 OS 文件管理系统的地图视角。
 
-除此以外，Map 还将组件文件夹下的所有 "geojson" 格式文件自动解析为图层。下图对比了云桌面文件管理器和 Map 两种不同视角对同一组件文件夹内容的展示：
+除此以外，Map 还将组件文件夹下的所有 "GeoJSON" 格式文件自动解析为图层。下图对比了云桌面文件管理器和 Map 两种不同视角对同一组件文件夹内容的展示：
 
 ![Matrix.OS](../../../../../media/os/tools/map/mapview.png "OS 与 Map 视角")
 
 ## 在 Map 中创建组件
 
-单击 Map 左侧导航栏上方选中组件文件夹，然后点击 <img src="./././././media/logo/mapcreate.png" width="20" height="20"> 按钮，即可在 Map 中组件文件夹的根目录创建新组件，如下图所示：
+单击 Map 左侧导航栏上方选中组件文件夹，然后点击 <img src="./././././media/logo/mapcreate.png" width="15" height="15"> 按钮，即可在 Map 中组件文件夹的根目录创建新组件，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/map/newitemroot.gif "在 Map 根目录创建组件")
 
@@ -58,8 +58,14 @@
 * 下载
 * 删除
 
-### 设置地图样式
+### 设置地图主题
 
-单击 Map 左侧导航栏上方 <img src="./././././media/logo/mapstyle.png" width="20" height="20"> 按钮，可以在下拉菜单中选择地图样式 (支持标准、暗黑色、和卫星图)，如下图所示：
+单击 Map 左侧导航栏上方 <img src="./././././media/logo/mapstyle.png" width="15" height="15"> 按钮，可以在下拉菜单中选择地图主题样式 (支持标准、暗黑色、和卫星图)，如下图所示：
 
-![Matrix.OS](../../../../../media/os/tools/map/mapstyle.gif "设置地图样式")
+![Matrix.OS](../../../../../media/os/tools/map/mapstyle.gif "设置地图主题样式")
+
+### 旋转地图视角
+
+按住 `Ctrl键` 同时在地图上拖动鼠标左键，即可旋转地图视角，如下图所示：
+
+![Matrix.OS](../../../../../media/os/tools/map/maprotate.gif "旋转地图视角")

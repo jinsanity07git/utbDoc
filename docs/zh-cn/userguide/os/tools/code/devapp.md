@@ -10,7 +10,7 @@
 
 ## 新建应用
 
-在云桌面上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createfolder1.png" width="75" height="20"> (或右键单击云桌面空白处选择<img src="./././././media/logo/createfolder2.png" width="75" height="20">)，在弹出对话框中输入 "radialtree" （也就是应用的名称），点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可在 OS 当前路径下创建一个空白组件文件夹，如下图所示：
+在云桌面上，点击左侧导航栏 <img src="./././././media/logo/startmenu.png" width="50" height="20"> 按钮下的 <img src="./././././media/logo/createfolder1.png" width="75" height="20"> (或右键单击云桌面空白处选择 <img src="./././././media/logo/createfolder2.png" width="75" height="20">)，在弹出对话框中输入 "radialtree" （也就是应用的名称），点击 <img src="./././././media/logo/createbutton.png" width="40" height="20"> 按钮，即可在 OS 当前路径下创建一个空白组件文件夹，如下图所示：
 
 ![Matrix.OS](../../../../../media/os/tools/code/newapp.gif "新建应用")
 

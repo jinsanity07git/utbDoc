@@ -79,39 +79,16 @@
         - [概览](zh-cn/userguide/os/tools/map/mapintro.md) 
         - [常用操作](zh-cn/userguide/os/tools/map/operations.md)
         - [图层管理](zh-cn/userguide/os/tools/map/managelayer.md)
-          - [组成架构](zh-cn/userguide/map/README.md)
-          - [数据](zh-cn/userguide/map/README.md)
-          - [设置与管理](zh-cn/userguide/map/README.md)
-          - [嵌套、组装和绑定](zh-cn/userguide/map/README.md)
-          - [成长与演化](zh-cn/userguide/map/README.md)
-          - [地图可以是编译器]
-        - 发布地图到开放平台
-          - [概述](zh-cn/userguide/code/devguide.md)
-          - [基本设置](zh-cn/userguide/code/devguide.md)
-          - [收费与定价](zh-cn/userguide/code/devguide.md)
-        - 协同
-          - [分享与并行操作](zh-cn/userguide/map/README.md)
-          - [权限管理](zh-cn/userguide/map/README.md)
-          - [分工、众包与集成](zh-cn/userguide/code/devguide.md)
-        - 运营与维护
-          - [地图信息更新与管理](zh-cn/userguide/code/devguide.md)
-          - [重构](zh-cn/userguide/code/devguide.md)
-          - [下线](zh-cn/userguide/code/devguide.md)
-          - [取消发布](zh-cn/userguide/code/devguide.md)
-          - [合作者管理](zh-cn/userguide/code/devguide.md)
-          - [用户管理与互动](zh-cn/userguide/code/devguide.md)
-        - [Open with Kepler.gl](zh-cn/userguide/code/devguide.md)
-      - [交互图纸](zh-cn/userguide/os/filebasic.md)
-      - [数据管理器](zh-cn/userguide/os/filebasic.md)
-      - [嵌套、复用与组装](zh-cn/userguide/os/filebasic.md)
-    - 管理媒体与素材
-    - 项目和资源
-
+        - [分享与协同](zh-cn/userguide/os/tools/map/mapshare.md)
+        - [Kepler.gl可视化](zh-cn/userguide/os/tools/map/kepler.md)
+      - [数据管理器](zh-cn/userguide/os/tools/dataexplorer.md)
+      - 交互图纸
+    - [媒体与素材](zh-cn/userguide/os/filebasic.md)
   - Matrix 开放平台
     - [市场](zh-cn/userguide/code/devguide.md)
     - [社区](zh-cn/userguide/code/devguide.md)
     - [动态](zh-cn/userguide/code/devguide.md)
-    - [个人中心](zh-cn/userguide/code/devguide.md)
+    - [个人中心](zh-cn/userguide/dev_guide.md)
   
 
 

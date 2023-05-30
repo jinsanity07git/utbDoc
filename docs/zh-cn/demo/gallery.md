@@ -79,7 +79,7 @@
     </tr>
 </table>
 
-## 地图沙盒
+## Map 应用
 
 <table rules="none" align="center">
     <tr style="background-color: #ffffff;">
