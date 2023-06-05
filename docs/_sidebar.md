@@ -83,7 +83,7 @@
         - [Kepler.gl可视化](zh-cn/userguide/os/tools/map/kepler.md)
       - [数据管理器](zh-cn/userguide/os/tools/dataexplorer.md)
       - 交互图纸
-    - [媒体与素材](zh-cn/userguide/os/filebasic.md)
+    - [媒体与素材](zh-cn/userguide/os/media.md)
   - Matrix 开放平台
     - [市场](zh-cn/userguide/code/devguide.md)
     - [社区](zh-cn/userguide/code/devguide.md)
