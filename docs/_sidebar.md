@@ -82,9 +82,9 @@
         - [分享与协同](zh-cn/userguide/os/tools/map/mapshare.md)
         - [Kepler.gl可视化](zh-cn/userguide/os/tools/map/kepler.md)
       - [数据管理器](zh-cn/userguide/os/tools/dataexplorer.md)
-      - 交互图纸
-    - [媒体与素材](zh-cn/userguide/os/media.md)
-  - Matrix 开放平台
+      - [交互图纸](zh-cn/userguide/os/tools/canvas/canvasintro.md)
+    - [使用媒体素材](https://mp.weixin.qq.com/s/tn_nyWraGEIH3o5DTm9ZXA)
+  - [Matrix 开放平台](zh-cn/userguide/openplatform.md)
     - [市场](zh-cn/userguide/code/devguide.md)
     - [社区](zh-cn/userguide/code/devguide.md)
     - [动态](zh-cn/userguide/code/devguide.md)
